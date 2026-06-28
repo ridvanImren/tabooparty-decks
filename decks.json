@@ -729,7 +729,8 @@
         ],
         "difficulty": "easy"
       }
-    ]
+    ],
+    "glyph": "moon.stars.fill"
   },
   {
     "id": "afterdark",
@@ -1461,7 +1462,8 @@
         ],
         "difficulty": "easy"
       }
-    ]
+    ],
+    "glyph": "moon.stars.fill"
   },
   {
     "id": "food",
@@ -2193,7 +2195,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "fork.knife"
   },
   {
     "id": "food",
@@ -2925,7 +2928,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "fork.knife"
   },
   {
     "id": "internet",
@@ -3537,7 +3541,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "network"
   },
   {
     "id": "internet",
@@ -4149,14 +4154,15 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "network"
   },
   {
     "id": "movies",
     "language": "en",
     "isPremium": true,
     "productId": "com.hush.deck.movies",
-    "palette": "violet",
+    "palette": "indigo",
     "price": "$2.99",
     "title": "Movie Night",
     "description": "Blockbusters, cult classics, and the films everyone quotes.",
@@ -4881,14 +4887,15 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "film.fill"
   },
   {
     "id": "movies",
     "language": "tr",
     "isPremium": true,
     "productId": "com.hush.deck.movies",
-    "palette": "violet",
+    "palette": "indigo",
     "price": "$2.99",
     "title": "Film Gecesi",
     "description": "Gişe rekortmenleri, kült klasikler ve herkesin replik attığı filmler.",
@@ -5613,14 +5620,15 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "film.fill"
   },
   {
     "id": "popculture",
     "language": "en",
     "isPremium": true,
     "productId": "com.hush.deck.popculture",
-    "palette": "coral",
+    "palette": "crimson",
     "price": "$2.99",
     "title": "Famous Faces",
     "description": "Icons, stars, and pop-culture moments everyone knows.",
@@ -6345,14 +6353,15 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "sparkles"
   },
   {
     "id": "popculture",
     "language": "tr",
     "isPremium": true,
     "productId": "com.hush.deck.popculture",
-    "palette": "coral",
+    "palette": "crimson",
     "price": "$2.99",
     "title": "Ünlü Yüzler",
     "description": "Herkesin tanıdığı ikonlar, yıldızlar ve pop kültür anları.",
@@ -7077,7 +7086,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "sparkles"
   },
   {
     "id": "starter",
@@ -8529,7 +8539,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "square.stack.3d.up.fill"
   },
   {
     "id": "starter",
@@ -9981,14 +9992,15 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "square.stack.3d.up.fill"
   },
   {
     "id": "throwback",
     "language": "en",
     "isPremium": true,
     "productId": "com.hush.deck.throwback",
-    "palette": "rose",
+    "palette": "teal",
     "price": "$2.99",
     "title": "90s Throwback",
     "description": "Pure 90s nostalgia — the gadgets, fads, and crazes we grew up with.",
@@ -10713,14 +10725,15 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "clock.arrow.circlepath"
   },
   {
     "id": "throwback",
     "language": "tr",
     "isPremium": true,
     "productId": "com.hush.deck.throwback",
-    "palette": "rose",
+    "palette": "teal",
     "price": "$2.99",
     "title": "90'lar Nostaljisi",
     "description": "Tam bir 90'lar nostaljisi — büyürken hayatımıza giren aletler ve modalar.",
@@ -11445,7 +11458,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "clock.arrow.circlepath"
   },
   {
     "id": "world",
@@ -12177,7 +12191,8 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "globe.europe.africa.fill"
   },
   {
     "id": "world",
@@ -12909,6 +12924,7 @@
         ],
         "difficulty": "hard"
       }
-    ]
+    ],
+    "glyph": "globe.europe.africa.fill"
   }
 ]

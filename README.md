@@ -26,6 +26,7 @@ revalidates by ETag, so a changed file is picked up on the next launch fetch.
   "isPremium": false,
   "productId": null,
   "palette": "coral",
+  "glyph": "square.stack.3d.up.fill",
   "price": null,
   "title": "Starter Pack",
   "description": "...",
@@ -34,3 +35,17 @@ revalidates by ETag, so a changed file is picked up on the next launch fetch.
   ]
 }
 ```
+
+## Cover visuals — `palette` + `glyph`
+
+A deck cover is a `palette` gradient with a white `glyph` (SF Symbol) on top.
+Both are remotely editable — change them here, no app release.
+
+- **`palette`** — one of a fixed brand set (adding a *new* color needs an app
+  release): `coral`, `violet`, `emerald`, `amber`, `rose`, `teal`, `indigo`,
+  `crimson`, `sky`, `lime`, `magenta`, `plum`, `slate`, `bronze`, `cobalt`.
+  Omitted → `coral`.
+- **`glyph`** — any SF Symbol name available on the app's iOS deployment target
+  (e.g. `film.fill`, `globe.europe.africa.fill`, `fork.knife`). Omitted →
+  `square.stack.3d.up.fill`. Pick from Apple's SF Symbols app; an invalid name
+  renders blank, so verify it exists.
