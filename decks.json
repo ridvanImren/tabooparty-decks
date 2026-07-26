@@ -2844,7 +2844,7 @@
       },
       {
         "id": "s116",
-        "target": "Tüylerin diken diken olması",
+        "target": "Tüyleri Diken Diken Olmak",
         "taboo": [
           "Soğuk",
           "Cilt",
@@ -9486,7 +9486,7 @@
       },
       {
         "id": "net013",
-        "target": "Kara Kara Kaydırmak",
+        "target": "Doomscrolling",
         "taboo": [
           "Telefon",
           "Kötü Haber",
@@ -9570,13 +9570,13 @@
       },
       {
         "id": "net020",
-        "target": "Filtre Kahve",
+        "target": "Spam Mail",
         "taboo": [
-          "İçecek",
-          "Demlemek",
-          "Sabah",
-          "Fincan",
-          "Çekirdek"
+          "E-posta",
+          "Gereksiz",
+          "Klasör",
+          "Reklam",
+          "Taşmak"
         ],
         "difficulty": "medium"
       },
@@ -9726,13 +9726,13 @@
       },
       {
         "id": "net033",
-        "target": "Yorumcu Bey",
+        "target": "Her Yoruma Atlayan Tip",
         "taboo": [
-          "Laf",
+          "Cevap",
           "Sürekli",
           "Sinir Bozucu",
           "Gönderi",
-          "Kadın"
+          "Tartışma"
         ],
         "difficulty": "hard"
       },
@@ -9930,7 +9930,7 @@
       },
       {
         "id": "net050",
-        "target": "Yüze Kapanmak",
+        "target": "Facepalm",
         "taboo": [
           "El",
           "Yüz",
@@ -22596,7 +22596,7 @@
       },
       {
         "id": "pc056",
-        "target": "Tek Şarkılık Ün",
+        "target": "Tek Şarkılık Şöhret",
         "taboo": [
           "Parça",
           "Bir Defa",
@@ -30831,7 +30831,7 @@
         "target": "Amazon Ormanı",
         "taboo": [
           "Brezilya",
-          "Cengel",
+          "Yağmur",
           "Ağaç",
           "Nehir",
           "Yeşil"
@@ -30891,9 +30891,9 @@
         "target": "Kanguru",
         "taboo": [
           "Avustralya",
-          "Zıpla",
+          "Zıplamak",
           "Kese",
-          "Sıçra",
+          "Sıçramak",
           "Yavru"
         ],
         "difficulty": "easy"
@@ -31276,7 +31276,7 @@
         "taboo": [
           "Ağaç",
           "Nemli",
-          "Cengel",
+          "Amazon",
           "Islak",
           "Tropik"
         ],
@@ -35226,13 +35226,13 @@
       },
       {
         "id": "ad009",
-        "target": "Yazıp Silmek",
+        "target": "Ghostlamak",
         "taboo": [
-          "Görmezden",
-          "Kaybolmak",
           "Mesaj",
           "Cevap",
-          "Ortadan"
+          "Kaybolmak",
+          "Görmezden",
+          "Flört"
         ],
         "difficulty": "medium"
       },
@@ -35298,12 +35298,12 @@
       },
       {
         "id": "ad015",
-        "target": "Kanka Bölgesi",
+        "target": "Friendzone",
         "taboo": [
           "Hoşlanmak",
-          "Sadece dostuz",
-          "Ret",
           "Arkadaş",
+          "Ret",
+          "Sadece Dostuz",
           "Duygular"
         ],
         "difficulty": "medium"
@@ -35454,7 +35454,7 @@
       },
       {
         "id": "ad028",
-        "target": "Gönül Çelmek",
+        "target": "Platonik Aşk",
         "taboo": [
           "Hoşlanmak",
           "Gizli",
@@ -35634,12 +35634,12 @@
       },
       {
         "id": "ad043",
-        "target": "Olgun Hayran",
+        "target": "Olgun Kadın",
         "taboo": [
-          "Yaşlı",
+          "Yaşça Büyük",
           "Genç",
-          "Hayranlık",
-          "İlgi",
+          "Flört",
+          "Çekici",
           "Randevu"
         ],
         "difficulty": "medium"
@@ -35706,13 +35706,13 @@
       },
       {
         "id": "ad049",
-        "target": "Yan Çizgi",
+        "target": "Gizli Sevgili",
         "taboo": [
           "Aldatmak",
-          "Gizli",
+          "Kaçamak",
           "Diğeri",
           "İlişki",
-          "Saklı"
+          "Saklamak"
         ],
         "difficulty": "medium"
       },
@@ -35742,11 +35742,11 @@
       },
       {
         "id": "ad052",
-        "target": "Çiçek Böcek Muhabbeti",
+        "target": "Cinsel Eğitim",
         "taboo": [
-          "Konuşma",
-          "Anne baba",
+          "Anne Baba",
           "Çocuk",
+          "Konuşma",
           "Tuhaf",
           "Anlatmak"
         ],
@@ -35766,13 +35766,13 @@
       },
       {
         "id": "ad054",
-        "target": "Tek Yudumda Tekila",
+        "target": "Body Shot",
         "taboo": [
-          "İçki",
+          "Tekila",
           "Tuz",
           "Limon",
-          "Bar",
-          "Kadeh"
+          "Yalamak",
+          "Bar"
         ],
         "difficulty": "medium"
       },
@@ -35814,7 +35814,7 @@
       },
       {
         "id": "ad058",
-        "target": "Refakatçi",
+        "target": "Artı Bir",
         "taboo": [
           "Davet",
           "Düğün",
