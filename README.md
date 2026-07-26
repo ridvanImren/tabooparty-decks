@@ -38,11 +38,6 @@ revalidates by ETag, so a changed file is picked up on the next launch fetch.
 
 Card IDs stay structurally parallel across locales (for example, `s001`).
 
-## Validation
-
-Run `node --test tests/decks-content.test.mjs`. The test suite also protects the
-approved native Turkish copy from accidental rewrites.
-
 ## Cover visuals — `palette` + `glyph`
 
 A deck cover is a `palette` gradient with a white `glyph` (SF Symbol) on top.
