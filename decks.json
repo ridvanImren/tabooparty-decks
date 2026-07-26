@@ -1506,7 +1506,7 @@
           "Kırmızı",
           "Ağaç",
           "Isırmak",
-          "Çıtır"
+          "Suyu"
         ],
         "difficulty": "easy"
       },
@@ -2844,13 +2844,13 @@
       },
       {
         "id": "s116",
-        "target": "Ürperti",
+        "target": "Tüylerin diken diken olması",
         "taboo": [
           "Soğuk",
           "Cilt",
           "Korku",
           "Kol",
-          "Titreme"
+          "Ürperti"
         ],
         "difficulty": "hard"
       },
@@ -9486,11 +9486,11 @@
       },
       {
         "id": "net013",
-        "target": "Kötü Haber Akışı",
+        "target": "Kara Kara Kaydırmak",
         "taboo": [
           "Telefon",
-          "Kaydırmak",
-          "Haber",
+          "Kötü Haber",
+          "Akış",
           "Yatak",
           "Bitmeyen"
         ],
@@ -9510,13 +9510,13 @@
       },
       {
         "id": "net015",
-        "target": "Kargo Açma Videosu",
+        "target": "Trendyol",
         "taboo": [
-          "Paket",
-          "Açmak",
-          "Ürün",
-          "İnceleme",
-          "Kutu"
+          "Alışveriş",
+          "Sipariş",
+          "Kargo",
+          "Site",
+          "İndirim"
         ],
         "difficulty": "medium"
       },
@@ -9570,13 +9570,13 @@
       },
       {
         "id": "net020",
-        "target": "Spam Mail",
+        "target": "Filtre Kahve",
         "taboo": [
-          "E-posta",
-          "Gereksiz",
-          "Klasör",
-          "Reklam",
-          "Taşmak"
+          "İçecek",
+          "Demlemek",
+          "Sabah",
+          "Fincan",
+          "Çekirdek"
         ],
         "difficulty": "medium"
       },
@@ -9714,21 +9714,21 @@
       },
       {
         "id": "net032",
-        "target": "Hafıza Dolu",
+        "target": "Kurye",
         "taboo": [
-          "Telefon",
-          "Fotoğraf",
-          "Silmek",
-          "Alan",
-          "Uyarı"
+          "Sipariş",
+          "Teslimat",
+          "Kapı",
+          "Motor",
+          "Getir"
         ],
         "difficulty": "medium"
       },
       {
         "id": "net033",
-        "target": "Cevapçı Adam",
+        "target": "Yorumcu Bey",
         "taboo": [
-          "Yorum",
+          "Laf",
           "Sürekli",
           "Sinir Bozucu",
           "Gönderi",
@@ -9738,7 +9738,7 @@
       },
       {
         "id": "net034",
-        "target": "Çime Dokun",
+        "target": "Çık Dışarı",
         "taboo": [
           "Sokak",
           "İnternet",
@@ -9858,12 +9858,12 @@
       },
       {
         "id": "net044",
-        "target": "Yorum Bölümü",
+        "target": "Yorumlar",
         "taboo": [
+          "Altı",
+          "Görüşler",
+          "Tartışmak",
           "Gönderi",
-          "Görüş",
-          "Tartışma",
-          "Altında",
           "Okumak"
         ],
         "difficulty": "hard"
@@ -9930,7 +9930,7 @@
       },
       {
         "id": "net050",
-        "target": "Facepalm",
+        "target": "Yüze Kapanmak",
         "taboo": [
           "El",
           "Yüz",
@@ -12407,13 +12407,13 @@
     "cards": [
       {
         "id": "fd001",
-        "target": "Pizza",
+        "target": "Meatball",
         "taboo": [
-          "Italy",
-          "Cheese",
-          "Slice",
-          "Pepperoni",
-          "Dough"
+          "Round",
+          "Sauce",
+          "Beef",
+          "Spaghetti",
+          "Roll"
         ],
         "difficulty": "easy"
       },
@@ -12431,13 +12431,13 @@
       },
       {
         "id": "fd003",
-        "target": "Coffee",
+        "target": "Tea",
         "taboo": [
-          "Bean",
+          "Leaves",
           "Cup",
-          "Morning",
-          "Hot",
-          "Caffeine"
+          "Brew",
+          "Kettle",
+          "Hot"
         ],
         "difficulty": "easy"
       },
@@ -12527,13 +12527,13 @@
       },
       {
         "id": "fd011",
-        "target": "Sandwich",
+        "target": "Pretzel",
         "taboo": [
-          "Bread",
-          "Filling",
-          "Lunch",
-          "Layer",
-          "Slice"
+          "Salt",
+          "Twist",
+          "Knot",
+          "Bake",
+          "Snack"
         ],
         "difficulty": "easy"
       },
@@ -12575,73 +12575,73 @@
       },
       {
         "id": "fd015",
-        "target": "Cake",
+        "target": "Muffin",
         "taboo": [
-          "Birthday",
-          "Candle",
-          "Frosting",
-          "Slice",
-          "Bake"
+          "Bake",
+          "Blueberry",
+          "Breakfast",
+          "Cup",
+          "Top"
         ],
         "difficulty": "easy"
       },
       {
         "id": "fd016",
-        "target": "Apple",
+        "target": "Orange",
         "taboo": [
           "Fruit",
-          "Red",
-          "Tree",
-          "Crunch",
-          "Doctor"
+          "Peel",
+          "Citrus",
+          "Juice",
+          "Round"
         ],
         "difficulty": "easy"
       },
       {
         "id": "fd017",
-        "target": "Egg",
+        "target": "Butter",
         "taboo": [
-          "Chicken",
-          "Shell",
-          "Yolk",
-          "Fry",
-          "Boil"
+          "Spread",
+          "Toast",
+          "Dairy",
+          "Churn",
+          "Yellow"
         ],
         "difficulty": "easy"
       },
       {
         "id": "fd018",
-        "target": "Bread",
+        "target": "Bagel",
         "taboo": [
-          "Loaf",
-          "Bake",
-          "Slice",
+          "Hole",
+          "Round",
           "Toast",
-          "Flour"
+          "Chewy",
+          "Cream Cheese"
         ],
         "difficulty": "easy"
       },
       {
         "id": "fd019",
-        "target": "Banana",
+        "target": "Strawberry",
         "taboo": [
+          "Red",
           "Fruit",
-          "Yellow",
-          "Peel",
-          "Monkey",
-          "Curve"
+          "Seeds",
+          "Berry",
+          "Sweet"
         ],
         "difficulty": "easy"
       },
       {
         "id": "fd020",
-        "target": "Milk",
+        "target": "Juice",
         "taboo": [
-          "Cow",
-          "White",
+          "Fruit",
+          "Drink",
+          "Orange",
           "Glass",
-          "Dairy",
-          "Cereal"
+          "Squeeze"
         ],
         "difficulty": "easy"
       },
@@ -12659,13 +12659,13 @@
       },
       {
         "id": "fd022",
-        "target": "Honey",
+        "target": "Jam",
         "taboo": [
-          "Bee",
-          "Sweet",
-          "Sticky",
-          "Golden",
-          "Jar"
+          "Fruit",
+          "Spread",
+          "Toast",
+          "Jar",
+          "Sweet"
         ],
         "difficulty": "easy"
       },
@@ -13007,13 +13007,13 @@
       },
       {
         "id": "fd051",
-        "target": "Whisk",
+        "target": "Ladle",
         "taboo": [
-          "Beat",
-          "Wire",
-          "Egg",
-          "Mix",
-          "Bowl"
+          "Soup",
+          "Scoop",
+          "Spoon",
+          "Serve",
+          "Pot"
         ],
         "difficulty": "medium"
       },
@@ -16973,13 +16973,13 @@
       },
       {
         "id": "mv015",
-        "target": "Popcorn",
+        "target": "Aladdin",
         "taboo": [
-          "Snack",
-          "Butter",
-          "Cinema",
-          "Kernel",
-          "Bucket"
+          "Genie",
+          "Lamp",
+          "Disney",
+          "Carpet",
+          "Wish"
         ],
         "difficulty": "easy"
       },
@@ -17309,13 +17309,13 @@
       },
       {
         "id": "mv043",
-        "target": "Red Carpet",
+        "target": "The Terminator",
         "taboo": [
-          "Premiere",
-          "Stars",
-          "Photos",
-          "Walk",
-          "Glamour"
+          "Robot",
+          "Arnold",
+          "Future",
+          "Cyborg",
+          "Kill"
         ],
         "difficulty": "medium"
       },
@@ -17345,13 +17345,13 @@
       },
       {
         "id": "mv046",
-        "target": "Blockbuster",
+        "target": "Franchise",
         "taboo": [
-          "Hit",
-          "Huge",
-          "Summer",
-          "Popular",
-          "Smash"
+          "Series",
+          "Films",
+          "Sequel",
+          "Brand",
+          "Money"
         ],
         "difficulty": "medium"
       },
@@ -21239,25 +21239,25 @@
       },
       {
         "id": "pc004",
-        "target": "Batman",
+        "target": "Elmo",
         "taboo": [
-          "Bruce Wayne",
-          "Gotham",
-          "Robin",
-          "Cave",
-          "Dark"
+          "Sesame",
+          "Red",
+          "Puppet",
+          "Furry",
+          "Muppet"
         ],
         "difficulty": "easy"
       },
       {
         "id": "pc005",
-        "target": "Spider-Man",
+        "target": "Winnie the Pooh",
         "taboo": [
-          "Web",
-          "Marvel",
-          "Peter",
-          "Climb",
-          "Swing"
+          "Bear",
+          "Honey",
+          "Yellow",
+          "Disney",
+          "Piglet"
         ],
         "difficulty": "easy"
       },
@@ -21347,13 +21347,13 @@
       },
       {
         "id": "pc013",
-        "target": "Selfie",
+        "target": "Garfield",
         "taboo": [
-          "Photo",
-          "Phone",
-          "Face",
-          "Camera",
-          "Yourself"
+          "Cat",
+          "Lasagna",
+          "Orange",
+          "Lazy",
+          "Monday"
         ],
         "difficulty": "easy"
       },
@@ -21551,13 +21551,13 @@
       },
       {
         "id": "pc030",
-        "target": "James Bond",
+        "target": "Lady Gaga",
         "taboo": [
-          "Spy",
-          "Agent",
-          "Martini",
-          "007",
-          "Gun"
+          "Singer",
+          "Pop",
+          "Poker Face",
+          "Meat Dress",
+          "Little Monsters"
         ],
         "difficulty": "medium"
       },
@@ -21839,13 +21839,13 @@
       },
       {
         "id": "pc054",
-        "target": "Box Office",
+        "target": "Comeback",
         "taboo": [
-          "Movie",
-          "Tickets",
-          "Earnings",
-          "Sales",
-          "Theater"
+          "Return",
+          "Career",
+          "Again",
+          "Revival",
+          "Stage"
         ],
         "difficulty": "hard"
       },
@@ -21899,13 +21899,13 @@
       },
       {
         "id": "pc059",
-        "target": "Cameo",
+        "target": "Prince",
         "taboo": [
-          "Brief",
-          "Appearance",
-          "Star",
-          "Scene",
-          "Surprise"
+          "Purple",
+          "Rain",
+          "Singer",
+          "Symbol",
+          "Guitar"
         ],
         "difficulty": "medium"
       },
@@ -22596,7 +22596,7 @@
       },
       {
         "id": "pc056",
-        "target": "Tek Şarkılık Şöhret",
+        "target": "Tek Şarkılık Ün",
         "taboo": [
           "Parça",
           "Bir Defa",
@@ -30167,13 +30167,13 @@
       },
       {
         "id": "wd015",
-        "target": "Penguin",
+        "target": "Panda",
         "taboo": [
-          "Antarctica",
+          "China",
+          "Bamboo",
           "Black",
           "White",
-          "Cold",
-          "Waddle"
+          "Bear"
         ],
         "difficulty": "easy"
       },
@@ -30227,13 +30227,13 @@
       },
       {
         "id": "wd020",
-        "target": "Beach",
+        "target": "Greece",
         "taboo": [
-          "Sand",
-          "Ocean",
-          "Sun",
-          "Waves",
-          "Towel"
+          "Athens",
+          "Islands",
+          "Ancient",
+          "Europe",
+          "Mythology"
         ],
         "difficulty": "easy"
       },
@@ -30831,7 +30831,7 @@
         "target": "Amazon Ormanı",
         "taboo": [
           "Brezilya",
-          "Orman",
+          "Cengel",
           "Ağaç",
           "Nehir",
           "Yeşil"
@@ -30891,9 +30891,9 @@
         "target": "Kanguru",
         "taboo": [
           "Avustralya",
-          "Zıplamak",
+          "Zıpla",
           "Kese",
-          "Sıçramak",
+          "Sıçra",
           "Yavru"
         ],
         "difficulty": "easy"
@@ -31276,7 +31276,7 @@
         "taboo": [
           "Ağaç",
           "Nemli",
-          "Orman",
+          "Cengel",
           "Islak",
           "Tropik"
         ],
@@ -34433,13 +34433,13 @@
       },
       {
         "id": "ad004",
-        "target": "Banana",
+        "target": "Cucumber",
         "taboo": [
-          "Fruit",
-          "Yellow",
-          "Peel",
-          "Monkey",
-          "Smoothie"
+          "Vegetable",
+          "Green",
+          "Salad",
+          "Long",
+          "Pickle"
         ],
         "difficulty": "easy"
       },
@@ -35226,13 +35226,13 @@
       },
       {
         "id": "ad009",
-        "target": "Ghostlamak",
+        "target": "Yazıp Silmek",
         "taboo": [
+          "Görmezden",
+          "Kaybolmak",
           "Mesaj",
           "Cevap",
-          "Kaybolmak",
-          "Görmezden",
-          "Flört"
+          "Ortadan"
         ],
         "difficulty": "medium"
       },
@@ -35298,12 +35298,12 @@
       },
       {
         "id": "ad015",
-        "target": "Friendzone",
+        "target": "Kanka Bölgesi",
         "taboo": [
           "Hoşlanmak",
-          "Arkadaş",
+          "Sadece dostuz",
           "Ret",
-          "Sadece Dostuz",
+          "Arkadaş",
           "Duygular"
         ],
         "difficulty": "medium"
@@ -35454,7 +35454,7 @@
       },
       {
         "id": "ad028",
-        "target": "Platonik Aşk",
+        "target": "Gönül Çelmek",
         "taboo": [
           "Hoşlanmak",
           "Gizli",
@@ -35634,12 +35634,12 @@
       },
       {
         "id": "ad043",
-        "target": "Olgun Kadın",
+        "target": "Olgun Hayran",
         "taboo": [
-          "Yaşça Büyük",
+          "Yaşlı",
           "Genç",
-          "Flört",
-          "Çekici",
+          "Hayranlık",
+          "İlgi",
           "Randevu"
         ],
         "difficulty": "medium"
@@ -35706,13 +35706,13 @@
       },
       {
         "id": "ad049",
-        "target": "Kaçamak",
+        "target": "Yan Çizgi",
         "taboo": [
           "Aldatmak",
           "Gizli",
           "Diğeri",
           "İlişki",
-          "Saklamak"
+          "Saklı"
         ],
         "difficulty": "medium"
       },
@@ -35742,13 +35742,13 @@
       },
       {
         "id": "ad052",
-        "target": "Mahrem Konuşma",
+        "target": "Çiçek Böcek Muhabbeti",
         "taboo": [
+          "Konuşma",
+          "Anne baba",
           "Çocuk",
-          "Anne Baba",
-          "Anlatmak",
           "Tuhaf",
-          "Konu"
+          "Anlatmak"
         ],
         "difficulty": "medium"
       },
@@ -35766,7 +35766,7 @@
       },
       {
         "id": "ad054",
-        "target": "Tekila Shot",
+        "target": "Tek Yudumda Tekila",
         "taboo": [
           "İçki",
           "Tuz",
@@ -35814,7 +35814,7 @@
       },
       {
         "id": "ad058",
-        "target": "Artı Bir",
+        "target": "Refakatçi",
         "taboo": [
           "Davet",
           "Düğün",
