@@ -4,8 +4,8 @@ Remote deck content for the TabooParty iOS app, served via GitHub Pages.
 
 - **Live URL:** `https://ridvanimren.github.io/tabooparty-decks/decks.json`
 - **Format:** a JSON array of deck objects (the app's `DeckFileDTO` wire shape).
-- Each deck carries its own `language` (`en` / `tr`); the app filters by the
-  active language.
+- Each deck carries its own `language` (`en`, `tr`, `de`, `es`, `fr`, or `pt`);
+  the app filters by the active language. `pt` denotes Brazilian Portuguese.
 
 ## Updating decks
 
@@ -31,10 +31,12 @@ revalidates by ETag, so a changed file is picked up on the next launch fetch.
   "title": "Starter Pack",
   "description": "...",
   "cards": [
-    { "id": "s-en-001", "target": "Pizza", "taboo": ["Cheese", "Slice"], "difficulty": "easy" }
+    { "id": "s001", "target": "Pizza", "taboo": ["Cheese", "Slice", "Dough", "Italy", "Oven"], "difficulty": "easy" }
   ]
 }
 ```
+
+Card IDs stay structurally parallel across locales (for example, `s001`).
 
 ## Cover visuals — `palette` + `glyph`
 
