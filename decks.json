@@ -9678,13 +9678,13 @@
       },
       {
         "id": "net029",
-        "target": "Video Donması",
+        "target": "Uçak Modu",
         "taboo": [
-          "Yüklenmek",
-          "Çark",
-          "Beklemek",
-          "İnternet",
-          "Yavaş"
+          "Telefon",
+          "Sinyal",
+          "Kapatmak",
+          "Ayarlar",
+          "Kalkış"
         ],
         "difficulty": "medium"
       },
@@ -9762,13 +9762,13 @@
       },
       {
         "id": "net036",
-        "target": "Zincir Mesaj",
+        "target": "Cringe",
         "taboo": [
-          "Gönder",
-          "Herkese",
-          "Uğursuzluk",
-          "Kopyala",
-          "WhatsApp"
+          "Utanmak",
+          "Garip",
+          "Kasmak",
+          "Rezillik",
+          "İzlemek"
         ],
         "difficulty": "hard"
       },
@@ -9858,13 +9858,13 @@
       },
       {
         "id": "net044",
-        "target": "Yorum Kavgası",
+        "target": "Klavye Delikanlısı",
         "taboo": [
-          "Tartışmak",
-          "Gönderi",
-          "Cevap yazmak",
-          "Küfür",
-          "Sinir"
+          "Yorum",
+          "Cesur",
+          "Korkak",
+          "Kavga",
+          "Gerçek hayat"
         ],
         "difficulty": "hard"
       },
@@ -26442,13 +26442,13 @@
       },
       {
         "id": "tb010",
-        "target": "Defter Kabı",
+        "target": "Çiklet",
         "taboo": [
-          "Kaplamak",
-          "Naylon",
-          "Kitap",
-          "Kırtasiye",
-          "Yapıştırmak"
+          "Balon",
+          "Çiğnemek",
+          "Şeker",
+          "Yapışkan",
+          "Dövme"
         ],
         "difficulty": "easy"
       },
@@ -35610,13 +35610,13 @@
       },
       {
         "id": "ad041",
-        "target": "Şarkı İstemek",
+        "target": "Naz Yapmak",
         "taboo": [
-          "Garson",
-          "Müzisyen",
-          "Parça",
-          "Masa",
-          "Çalmak"
+          "İlgi",
+          "Zor",
+          "Cilve",
+          "Beklemek",
+          "Kaçmak"
         ],
         "difficulty": "medium"
       },
@@ -35694,13 +35694,13 @@
       },
       {
         "id": "ad048",
-        "target": "Hesabı Kapmak",
+        "target": "Sponsor",
         "taboo": [
-          "Garson",
-          "Ödemek",
-          "Restoran",
           "Para",
-          "Kavga"
+          "Zengin",
+          "Hediye",
+          "Yaş farkı",
+          "Şımartmak"
         ],
         "difficulty": "medium"
       },
@@ -35766,25 +35766,25 @@
       },
       {
         "id": "ad054",
-        "target": "Shot Dikmek",
+        "target": "Fondip",
         "taboo": [
-          "Tekila",
-          "Tuz",
-          "Limon",
-          "Bar",
-          "Kadeh"
+          "Bardak",
+          "İçmek",
+          "Kadeh",
+          "Bir seferde",
+          "Bitirmek"
         ],
         "difficulty": "medium"
       },
       {
         "id": "ad055",
-        "target": "Ev Partisi",
+        "target": "Manita",
         "taboo": [
-          "Müzik",
-          "Kalabalık",
-          "İçki",
-          "Komşu",
-          "Davet"
+          "Sevgili",
+          "Hatun",
+          "Kız arkadaş",
+          "Çıkmak",
+          "Beraber"
         ],
         "difficulty": "easy"
       },
