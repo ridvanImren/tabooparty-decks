@@ -1460,7 +1460,7 @@
     "palette": "coral",
     "price": null,
     "title": "Günlük Hayat",
-    "description": "Tüm masayı oyuna katacak 120 günlük kelime.",
+    "description": "Herkesin bildiği 120 kelime. İlk oyuna buradan başlayın.",
     "cards": [
       {
         "id": "s001",
@@ -2844,13 +2844,13 @@
       },
       {
         "id": "s116",
-        "target": "Ürperti",
+        "target": "Priz",
         "taboo": [
-          "Soğuk",
-          "Korku",
-          "Tüy",
-          "Titremek",
-          "Cilt"
+          "Fiş",
+          "Elektrik",
+          "Duvar",
+          "Takmak",
+          "Şarj"
         ],
         "difficulty": "hard"
       },
@@ -2868,13 +2868,13 @@
       },
       {
         "id": "s118",
-        "target": "Su birikintisi",
+        "target": "Oklava",
         "taboo": [
-          "Islak",
-          "Yağmur",
-          "Sıçramak",
-          "Küçük",
-          "Yer"
+          "Hamur",
+          "Yufka",
+          "Açmak",
+          "Tahta",
+          "Merdane"
         ],
         "difficulty": "hard"
       },
@@ -9338,7 +9338,7 @@
     "palette": "violet",
     "price": null,
     "title": "İnternet Hayatı",
-    "description": "Geçici akımlar değil, kalıcı internet alışkanlıkları.",
+    "description": "Aile grubuna günaydın atanlar ve mavi tiki bekleyenler için.",
     "cards": [
       {
         "id": "net001",
@@ -9486,12 +9486,12 @@
       },
       {
         "id": "net013",
-        "target": "Telefonu Bırakamamak",
+        "target": "Ekran Süresi",
         "taboo": [
-          "Yatak",
-          "Uyku",
-          "Kaydırmak",
-          "Saatler",
+          "Telefon",
+          "Saat",
+          "Ayarlar",
+          "Haftalık",
           "Bağımlılık"
         ],
         "difficulty": "medium"
@@ -9630,7 +9630,7 @@
       },
       {
         "id": "net025",
-        "target": "Tık Tuzağı",
+        "target": "Clickbait",
         "taboo": [
           "Başlık",
           "Kandırmak",
@@ -13136,7 +13136,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "Yiyecek & İçecek",
-    "description": "Her mutfaktan, kafeden ve sofradan lezzetli kelimeler.",
+    "description": "Aç karnına oynamayın. Döner de var, künefe de.",
     "cards": [
       {
         "id": "fd001",
@@ -13824,13 +13824,13 @@
       },
       {
         "id": "fd058",
-        "target": "Artan Yemek",
+        "target": "İmam Bayıldı",
         "taboo": [
-          "Buzdolabı",
-          "Dün",
-          "Isıtmak",
-          "Kap",
-          "Bitirmek"
+          "Patlıcan",
+          "Zeytinyağlı",
+          "Soğan",
+          "Domates",
+          "Yemek"
         ],
         "difficulty": "hard"
       },
@@ -17534,7 +17534,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Film Gecesi",
-    "description": "Gişe rekortmenleri, kült klasikler ve herkesin replik attığı filmler.",
+    "description": "İzleyip repliklerini ezberlediğimiz filmler.",
     "cards": [
       {
         "id": "mv001",
@@ -18114,25 +18114,25 @@
       },
       {
         "id": "mv049",
-        "target": "Sağ Kol",
+        "target": "Tosun Paşa",
         "taboo": [
-          "Kahraman",
-          "Yardımcı",
-          "Ortak",
-          "İkinci",
-          "Güvenilir"
+          "Kemal Sunal",
+          "Şener Şen",
+          "Tellioğlu",
+          "Seferoğlu",
+          "Yeşilçam"
         ],
         "difficulty": "medium"
       },
       {
         "id": "mv050",
-        "target": "Senaryo Hatası",
+        "target": "Korku Filmi",
         "taboo": [
-          "Hata",
-          "Mantık",
-          "Boşluk",
-          "Hikaye",
-          "Tutarsız"
+          "Korkmak",
+          "Gerilim",
+          "Hayalet",
+          "Çığlık",
+          "Karanlık"
         ],
         "difficulty": "medium"
       },
@@ -18246,13 +18246,13 @@
       },
       {
         "id": "mv060",
-        "target": "Antikahraman",
+        "target": "Kült Film",
         "taboo": [
-          "Kusurlu",
-          "Kahraman",
-          "Kötü",
-          "İyi",
-          "Gri"
+          "Eski",
+          "Hayran",
+          "Klasik",
+          "Efsane",
+          "Unutulmaz"
         ],
         "difficulty": "hard"
       }
@@ -21932,7 +21932,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Ünlü Yüzler",
-    "description": "Herkesin tanıdığı ikonlar, yıldızlar ve pop kültür anları.",
+    "description": "Sezen Aksu'dan SüngerBob'a, herkesin tanıdığı ünlüler.",
     "cards": [
       {
         "id": "pc001",
@@ -22584,13 +22584,13 @@
       },
       {
         "id": "pc055",
-        "target": "Teşekkür Konuşması",
+        "target": "Adile Naşit",
         "taboo": [
-          "Kupa",
-          "Sahne",
-          "Ağlamak",
-          "Uzun",
-          "Mikrofon"
+          "Hababam Sınıfı",
+          "Yeşilçam",
+          "Kahkaha",
+          "Anne",
+          "Masal"
         ],
         "difficulty": "hard"
       },
@@ -22608,13 +22608,13 @@
       },
       {
         "id": "pc057",
-        "target": "Oyuncu Seçmesi",
+        "target": "Hadise",
         "taboo": [
-          "Aktör",
-          "Rol",
-          "Yönetmen",
-          "Deneme",
-          "Aday"
+          "Eurovision",
+          "Düm Tek Tek",
+          "Şarkıcı",
+          "Belçika",
+          "Dans"
         ],
         "difficulty": "hard"
       },
@@ -22632,13 +22632,13 @@
       },
       {
         "id": "pc059",
-        "target": "Cameo",
+        "target": "Kıvanç Tatlıtuğ",
         "taboo": [
-          "Kısa",
-          "Görünmek",
-          "Yıldız",
-          "Sahne",
-          "Sürpriz"
+          "Oyuncu",
+          "Yakışıklı",
+          "Model",
+          "Dizi",
+          "Kuzey Güney"
         ],
         "difficulty": "medium"
       },
@@ -26330,7 +26330,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "90'lar Nostaljisi",
-    "description": "Tam bir 90'lar nostaljisi — büyürken hayatımıza giren aletler ve modalar.",
+    "description": "Kaset sarmış, misket oynamış herkes için.",
     "cards": [
       {
         "id": "tb001",
@@ -26646,13 +26646,13 @@
       },
       {
         "id": "tb027",
-        "target": "Çevirmeli İnternet",
+        "target": "Power Rangers",
         "taboo": [
-          "Modem",
-          "Bağlanmak",
-          "Ses",
-          "Yavaş",
-          "Hat"
+          "Renkli",
+          "Kostüm",
+          "Robot",
+          "Kırmızı",
+          "Dönüşmek"
         ],
         "difficulty": "medium"
       },
@@ -26670,13 +26670,13 @@
       },
       {
         "id": "tb029",
-        "target": "Peluş Oyuncak",
+        "target": "Taso",
         "taboo": [
-          "Yumuşak",
-          "Ayıcık",
-          "Sarılmak",
-          "Tüylü",
-          "Hediye"
+          "Cips",
+          "Biriktirmek",
+          "Yuvarlak",
+          "Plastik",
+          "Takas"
         ],
         "difficulty": "medium"
       },
@@ -26742,13 +26742,13 @@
       },
       {
         "id": "tb035",
-        "target": "Telsiz",
+        "target": "Kaptan Tsubasa",
         "taboo": [
-          "Radyo",
-          "Tamam",
-          "Tuş",
-          "Konuşmak",
-          "Menzil"
+          "Futbol",
+          "Çizgi film",
+          "Japon",
+          "Top",
+          "Kaleci"
         ],
         "difficulty": "medium"
       },
@@ -26874,13 +26874,13 @@
       },
       {
         "id": "tb046",
-        "target": "El Falı",
+        "target": "Şirinler",
         "taboo": [
-          "Avuç",
-          "Çizgi",
-          "Gelecek",
-          "Kahve",
-          "Falcı"
+          "Mavi",
+          "Gargamel",
+          "Şirine",
+          "Mantar",
+          "Çizgi film"
         ],
         "difficulty": "medium"
       },
@@ -26934,37 +26934,37 @@
       },
       {
         "id": "tb051",
-        "target": "Kontörlü Telefon",
+        "target": "Kontör",
         "taboo": [
-          "Yükleme",
+          "Yüklemek",
           "Dakika",
           "Bitmek",
           "Hat",
-          "Konuşmak"
+          "Kart"
         ],
         "difficulty": "medium"
       },
       {
         "id": "tb052",
-        "target": "Okul Çantası",
+        "target": "Beslenme Çantası",
         "taboo": [
-          "Sırt",
-          "Defter",
-          "Kitap",
-          "Askı",
-          "Taşımak"
+          "Okul",
+          "Teneffüs",
+          "Termos",
+          "Sandviç",
+          "Yemek"
         ],
         "difficulty": "hard"
       },
       {
         "id": "tb053",
-        "target": "Lav Lambası",
+        "target": "Teleteks",
         "taboo": [
-          "Mum",
-          "Parlamak",
-          "Damla",
-          "Yüzmek",
-          "Işık"
+          "TRT",
+          "Sayfa",
+          "Kumanda",
+          "Yazı",
+          "Numara"
         ],
         "difficulty": "hard"
       },
@@ -27018,13 +27018,13 @@
       },
       {
         "id": "tb058",
-        "target": "Projeksiyon Makinesi",
+        "target": "Çarkıfelek",
         "taboo": [
-          "Film",
-          "Makara",
-          "Perde",
-          "Işık",
-          "Sinema"
+          "Mehmet Ali Erbil",
+          "Yarışma",
+          "Harf",
+          "Çevirmek",
+          "Kelime"
         ],
         "difficulty": "hard"
       },
@@ -30728,7 +30728,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "Dünya Turu",
-    "description": "Her kıtadan şehirler, simgeler ve kültürler.",
+    "description": "Dünyanın dört bir yanından şehirler ve ünlü yerler.",
     "cards": [
       {
         "id": "wd001",
@@ -31284,13 +31284,13 @@
       },
       {
         "id": "wd047",
-        "target": "Akçaağaç Yaprağı",
+        "target": "Pamukkale",
         "taboo": [
-          "Kanada",
-          "Bayrak",
-          "Kırmızı",
-          "Sonbahar",
-          "Şurup"
+          "Denizli",
+          "Travertin",
+          "Beyaz",
+          "Termal",
+          "Hierapolis"
         ],
         "difficulty": "medium"
       },
@@ -35126,7 +35126,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "Çapkın",
-    "description": "Yetişkinler için parti destesi — flört, gece hayatı ve cilveli imalar.",
+    "description": "Flört ve gece hayatı üzerine, çocuklar yattıktan sonra oynanacak bir deste.",
     "cards": [
       {
         "id": "ad001",
@@ -35166,25 +35166,25 @@
       },
       {
         "id": "ad004",
-        "target": "Çilek",
+        "target": "Gül",
         "taboo": [
-          "Meyve",
+          "Çiçek",
           "Kırmızı",
-          "Tatlı",
-          "Kalp",
-          "Krema"
+          "Diken",
+          "Buket",
+          "Sevgililer Günü"
         ],
         "difficulty": "easy"
       },
       {
         "id": "ad005",
-        "target": "Dizi İzleyelim",
+        "target": "Yasak Elma",
         "taboo": [
-          "Eve gel",
-          "Kanepe",
-          "Çağırmak",
-          "Film",
-          "Bahane"
+          "Adem",
+          "Havva",
+          "Cennet",
+          "Günah",
+          "Dizi"
         ],
         "difficulty": "medium"
       },
@@ -35238,13 +35238,13 @@
       },
       {
         "id": "ad010",
-        "target": "Boyundaki İz",
+        "target": "Gerdek Gecesi",
         "taboo": [
-          "Atkı",
-          "Saklamak",
-          "Mor",
-          "Öpüşmek",
-          "Yaka"
+          "Düğün",
+          "Gelin",
+          "Damat",
+          "Nikah",
+          "Yatak"
         ],
         "difficulty": "medium"
       },
@@ -35262,13 +35262,13 @@
       },
       {
         "id": "ad012",
-        "target": "Yavaş Dans",
+        "target": "Kur Yapmak",
         "taboo": [
-          "Müzik",
-          "Yakın",
-          "Çift",
-          "Pist",
-          "Sarılmak"
+          "Flört",
+          "İltifat",
+          "Etkilemek",
+          "Hoşlanmak",
+          "Çiçek"
         ],
         "difficulty": "easy"
       },
@@ -35310,13 +35310,13 @@
       },
       {
         "id": "ad016",
-        "target": "Gece Yarısı Mesajı",
+        "target": "Trip Atmak",
         "taboo": [
-          "Telefon",
-          "Uyanık",
-          "Yalnız",
-          "Geç saat",
-          "Yazmak"
+          "Küsmek",
+          "Sevgili",
+          "Surat",
+          "Alınmak",
+          "Kavga"
         ],
         "difficulty": "medium"
       },
@@ -35442,13 +35442,13 @@
       },
       {
         "id": "ad027",
-        "target": "Çıplak Yüzmek",
+        "target": "Hovarda",
         "taboo": [
-          "Havuz",
-          "Deniz",
-          "Gece",
-          "Göl",
-          "Kıyafet"
+          "Çapkın",
+          "Kadın",
+          "Para",
+          "Eğlence",
+          "Savurgan"
         ],
         "difficulty": "hard"
       },
@@ -35490,13 +35490,13 @@
       },
       {
         "id": "ad031",
-        "target": "Soğuk Duş",
+        "target": "Sarhoş",
         "taboo": [
-          "Su",
-          "Sakinleşmek",
-          "Banyo",
-          "Buz gibi",
-          "Serinlemek"
+          "İçki",
+          "Alkol",
+          "Sallanmak",
+          "Rakı",
+          "Kafa"
         ],
         "difficulty": "medium"
       },
@@ -35526,13 +35526,13 @@
       },
       {
         "id": "ad034",
-        "target": "Köpüklü Banyo",
+        "target": "Gece Kulübü",
         "taboo": [
-          "Küvet",
-          "Su",
-          "Mum",
-          "Rahatlamak",
-          "Sabun"
+          "Dans",
+          "Müzik",
+          "DJ",
+          "Fedai",
+          "Sıra"
         ],
         "difficulty": "easy"
       },
@@ -35586,13 +35586,13 @@
       },
       {
         "id": "ad039",
-        "target": "Ertesi Sabah",
+        "target": "Red Flag",
         "taboo": [
-          "Uyanmak",
-          "Dün gece",
-          "Kahve",
-          "Tuhaf",
-          "Yatak"
+          "Kırmızı",
+          "Bayrak",
+          "Uyarı",
+          "İlişki",
+          "Tehlike"
         ],
         "difficulty": "hard"
       },
@@ -35730,13 +35730,13 @@
       },
       {
         "id": "ad051",
-        "target": "Kucak Dansı",
+        "target": "Striptiz",
         "taboo": [
-          "Müzik",
+          "Soyunmak",
+          "Dans",
+          "Direk",
           "Kulüp",
-          "Oturmak",
-          "Yaklaşmak",
-          "Bacak"
+          "Kıyafet"
         ],
         "difficulty": "medium"
       },
@@ -35790,25 +35790,25 @@
       },
       {
         "id": "ad056",
-        "target": "Göz Göze Gelmek",
+        "target": "Aldatmak",
         "taboo": [
-          "Bakışmak",
-          "Kalabalık",
-          "Utanmak",
-          "Karşılıklı",
-          "Gülümsemek"
+          "Sadakat",
+          "İhanet",
+          "Başkası",
+          "Gizli",
+          "Sevgili"
         ],
         "difficulty": "easy"
       },
       {
         "id": "ad057",
-        "target": "Tatlı Dilli",
+        "target": "Seksi",
         "taboo": [
-          "Cazibe",
-          "Laf",
-          "Flört",
-          "Özgüven",
-          "Replik"
+          "Çekici",
+          "Ateşli",
+          "Vücut",
+          "Güzel",
+          "Dekolte"
         ],
         "difficulty": "easy"
       },
@@ -35826,13 +35826,13 @@
       },
       {
         "id": "ad059",
-        "target": "Bronzluk İzi",
+        "target": "Yaz Aşkı",
         "taboo": [
+          "Tatil",
           "Plaj",
-          "Mayo",
-          "Güneş",
-          "Beyaz",
-          "Ten"
+          "Sezon",
+          "Kısa",
+          "Ayrılık"
         ],
         "difficulty": "easy"
       },
