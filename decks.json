@@ -1460,7 +1460,7 @@
     "palette": "coral",
     "price": null,
     "title": "Günlük Hayat",
-    "description": "Tüm masayı oyuna katacak 120 günlük kelime.",
+    "description": "Herkesin bildiği 120 kelime. İlk oyuna buradan başlayın.",
     "cards": [
       {
         "id": "s001",
@@ -2844,13 +2844,13 @@
       },
       {
         "id": "s116",
-        "target": "Ürperti",
+        "target": "Priz",
         "taboo": [
-          "Soğuk",
-          "Korku",
-          "Tüy",
-          "Titremek",
-          "Cilt"
+          "Fiş",
+          "Elektrik",
+          "Duvar",
+          "Takmak",
+          "Şarj"
         ],
         "difficulty": "hard"
       },
@@ -2868,13 +2868,13 @@
       },
       {
         "id": "s118",
-        "target": "Su birikintisi",
+        "target": "Oklava",
         "taboo": [
-          "Islak",
-          "Yağmur",
-          "Sıçramak",
-          "Küçük",
-          "Yer"
+          "Hamur",
+          "Yufka",
+          "Açmak",
+          "Tahta",
+          "Merdane"
         ],
         "difficulty": "hard"
       },
@@ -2913,7 +2913,7 @@
     "palette": "coral",
     "price": null,
     "title": "Alltag",
-    "description": "120 Alltagswörter — damit kriegst du die ganze Runde ins Spiel.",
+    "description": "120 Wörter aus dem Alltag, genau richtig für die erste Runde.",
     "cards": [
       {
         "id": "s001",
@@ -5819,7 +5819,7 @@
     "palette": "coral",
     "price": null,
     "title": "Au Quotidien",
-    "description": "120 mots de tous les jours pour faire jouer toute la tablée.",
+    "description": "120 mots que tout le monde connaît. Commence par là pour ta première partie.",
     "cards": [
       {
         "id": "s001",
@@ -7272,7 +7272,7 @@
     "palette": "coral",
     "price": null,
     "title": "Dia a Dia",
-    "description": "120 palavras do dia a dia para botar a mesa inteira pra jogar.",
+    "description": "120 palavras que todo mundo conhece. Comecem a primeira partida por aqui.",
     "cards": [
       {
         "id": "s001",
@@ -8725,7 +8725,7 @@
     "palette": "violet",
     "price": null,
     "title": "Internet Life",
-    "description": "The behaviors, not the dead memes — doomscrolling, reply guys, read receipts.",
+    "description": "All the stuff you do on your phone when you should be asleep.",
     "cards": [
       {
         "id": "net001",
@@ -9113,13 +9113,13 @@
       },
       {
         "id": "net033",
-        "target": "Reply Guy",
+        "target": "FOMO",
         "taboo": [
-          "Comment",
-          "Always",
-          "Annoying",
-          "Post",
-          "Woman"
+          "Fear",
+          "Missing Out",
+          "Party",
+          "Anxiety",
+          "Friends"
         ],
         "difficulty": "hard"
       },
@@ -9269,13 +9269,13 @@
       },
       {
         "id": "net046",
-        "target": "Cookie Banner",
+        "target": "CAPTCHA",
         "taboo": [
-          "Website",
-          "Accept",
-          "Privacy",
-          "Popup",
-          "Agree"
+          "Robot",
+          "Human",
+          "Traffic Lights",
+          "Letters",
+          "Prove"
         ],
         "difficulty": "hard"
       },
@@ -9338,7 +9338,7 @@
     "palette": "violet",
     "price": null,
     "title": "İnternet Hayatı",
-    "description": "Geçici akımlar değil, kalıcı internet alışkanlıkları.",
+    "description": "Aile grubuna günaydın atanlar ve mavi tiki bekleyenler için.",
     "cards": [
       {
         "id": "net001",
@@ -9486,12 +9486,12 @@
       },
       {
         "id": "net013",
-        "target": "Telefonu Bırakamamak",
+        "target": "Ekran Süresi",
         "taboo": [
-          "Yatak",
-          "Uyku",
-          "Kaydırmak",
-          "Saatler",
+          "Telefon",
+          "Saat",
+          "Ayarlar",
+          "Haftalık",
           "Bağımlılık"
         ],
         "difficulty": "medium"
@@ -9630,7 +9630,7 @@
       },
       {
         "id": "net025",
-        "target": "Tık Tuzağı",
+        "target": "Clickbait",
         "taboo": [
           "Başlık",
           "Kandırmak",
@@ -9951,7 +9951,7 @@
     "palette": "violet",
     "price": null,
     "title": "Immer online",
-    "description": "Blaue Haken, Doomscrolling, Gruppenchat-Chaos — dein ganz normaler Wahnsinn im Netz.",
+    "description": "Für alle, die auf die blauen Haken warten und selbst nie antworten.",
     "cards": [
       {
         "id": "net001",
@@ -10564,7 +10564,7 @@
     "palette": "violet",
     "price": null,
     "title": "Vida en línea",
-    "description": "Del visto al scroll infinito: los hábitos de internet que nunca pasan de moda.",
+    "description": "Para los que dejan en visto y mandan audios de cinco minutos.",
     "cards": [
       {
         "id": "net001",
@@ -11120,13 +11120,13 @@
       },
       {
         "id": "net047",
-        "target": "Rickroll",
+        "target": "Hater",
         "taboo": [
-          "Enlace",
-          "Canción",
-          "Broma",
-          "Video",
-          "Engaño"
+          "Odio",
+          "Criticar",
+          "Comentarios",
+          "Envidia",
+          "Redes"
         ],
         "difficulty": "hard"
       },
@@ -11177,7 +11177,7 @@
     "palette": "violet",
     "price": null,
     "title": "La Vie en Ligne",
-    "description": "Pas de mèmes morts — le scroll infini, les « vu », les groupes WhatsApp.",
+    "description": "Pour ceux qui laissent en vu puis envoient un vocal de cinq minutes.",
     "cards": [
       {
         "id": "net001",
@@ -11397,13 +11397,13 @@
       },
       {
         "id": "net019",
-        "target": "Piège à clics",
+        "target": "Putaclic",
         "taboo": [
           "Titre",
-          "Article",
-          "Curiosité",
+          "Cliquer",
           "Racoleur",
-          "Mensonge"
+          "Miniature",
+          "Accrocheur"
         ],
         "difficulty": "medium"
       },
@@ -11649,13 +11649,13 @@
       },
       {
         "id": "net040",
-        "target": "Bannière cookies",
+        "target": "Message vocal",
         "taboo": [
-          "Site",
-          "Accepter",
-          "Refuser",
-          "Pop-up",
-          "Traceurs"
+          "WhatsApp",
+          "Voix",
+          "Enregistrer",
+          "Écouter",
+          "Micro"
         ],
         "difficulty": "hard"
       },
@@ -11697,13 +11697,13 @@
       },
       {
         "id": "net044",
-        "target": "Toucher de l'herbe",
+        "target": "Cringe",
         "taboo": [
-          "Dehors",
-          "Sortir",
-          "Écran",
-          "Vraie vie",
-          "Insulte"
+          "Gênant",
+          "Malaise",
+          "Honte",
+          "Embarrassant",
+          "Vidéo"
         ],
         "difficulty": "hard"
       },
@@ -11790,7 +11790,7 @@
     "palette": "violet",
     "price": null,
     "title": "Vida Online",
-    "description": "Nada de meme morto: os hábitos de internet que todo brasileiro conhece, do zap ao print.",
+    "description": "Quem tem grupo da família no zap já sabe metade das respostas.",
     "cards": [
       {
         "id": "net001",
@@ -12286,13 +12286,13 @@
       },
       {
         "id": "net042",
-        "target": "Seção de comentários",
+        "target": "Hater",
         "taboo": [
+          "Ódio",
           "Comentário",
-          "Opinião",
-          "Brigar",
-          "Post",
-          "Embaixo"
+          "Criticar",
+          "Inveja",
+          "Famoso"
         ],
         "difficulty": "hard"
       },
@@ -12322,13 +12322,13 @@
       },
       {
         "id": "net045",
-        "target": "Aviso de cookies",
+        "target": "Exposed",
         "taboo": [
-          "Site",
-          "Aceitar",
-          "Privacidade",
-          "Pop-up",
-          "Navegador"
+          "Expor",
+          "Print",
+          "Podres",
+          "Revelar",
+          "Twitter"
         ],
         "difficulty": "hard"
       },
@@ -12346,25 +12346,25 @@
       },
       {
         "id": "net047",
-        "target": "Ouvir em 2x",
+        "target": "Flopar",
         "taboo": [
-          "Áudio",
-          "Velocidade",
-          "Rápido",
-          "Podcast",
-          "Acelerar"
+          "Fracassar",
+          "Engajamento",
+          "Curtida",
+          "Post",
+          "Bombar"
         ],
         "difficulty": "hard"
       },
       {
         "id": "net048",
-        "target": "Doomscrolling",
+        "target": "Treta",
         "taboo": [
-          "Notícia",
-          "Rolar",
-          "Cama",
-          "Celular",
-          "Ruim"
+          "Briga",
+          "Discussão",
+          "Barraco",
+          "Confusão",
+          "Twitter"
         ],
         "difficulty": "hard"
       },
@@ -12403,7 +12403,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "Food & Drink",
-    "description": "Tasty words from every kitchen, café, and dinner table.",
+    "description": "Play it after dinner, or someone will be ordering tacos by round two.",
     "cards": [
       {
         "id": "fd001",
@@ -13136,7 +13136,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "Yiyecek & İçecek",
-    "description": "Her mutfaktan, kafeden ve sofradan lezzetli kelimeler.",
+    "description": "Aç karnına oynamayın. Döner de var, künefe de.",
     "cards": [
       {
         "id": "fd001",
@@ -13824,13 +13824,13 @@
       },
       {
         "id": "fd058",
-        "target": "Artan Yemek",
+        "target": "İmam Bayıldı",
         "taboo": [
-          "Buzdolabı",
-          "Dün",
-          "Isıtmak",
-          "Kap",
-          "Bitirmek"
+          "Patlıcan",
+          "Zeytinyağlı",
+          "Soğan",
+          "Domates",
+          "Yemek"
         ],
         "difficulty": "hard"
       },
@@ -13869,7 +13869,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "Essen & Trinken",
-    "description": "Von Currywurst bis Kaiserschmarrn — Wörter zum Reinbeißen aus Küche, Café und Imbissbude.",
+    "description": "Bloß nicht hungrig spielen. Hier gibt's Currywurst und Spaghettieis.",
     "cards": [
       {
         "id": "fd001",
@@ -14602,7 +14602,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "¡Buen provecho!",
-    "description": "De la paella a los tacos: palabras sabrosas de cada cocina, cafetería y sobremesa.",
+    "description": "Mejor jugar después de comer, que hay desde tacos hasta paella.",
     "cards": [
       {
         "id": "fd001",
@@ -15335,7 +15335,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "À Table !",
-    "description": "Du croissant du matin à la raclette du soir — tout ce qui se mange et se boit.",
+    "description": "De la raclette au kouign-amann, de quoi te donner faim.",
     "cards": [
       {
         "id": "fd001",
@@ -16068,7 +16068,7 @@
     "palette": "amber",
     "price": "$2.99",
     "title": "Comes & Bebes",
-    "description": "Palavras de dar água na boca — da padoca ao churrasco de domingo.",
+    "description": "Melhor jogar de barriga cheia, porque tem coxinha e brigadeiro.",
     "cards": [
       {
         "id": "fd001",
@@ -16801,7 +16801,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Movie Night",
-    "description": "Blockbusters, cult classics, and the films everyone quotes.",
+    "description": "For anyone who still argues about the ending of Inception.",
     "cards": [
       {
         "id": "mv001",
@@ -17534,7 +17534,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Film Gecesi",
-    "description": "Gişe rekortmenleri, kült klasikler ve herkesin replik attığı filmler.",
+    "description": "İzleyip repliklerini ezberlediğimiz filmler.",
     "cards": [
       {
         "id": "mv001",
@@ -18114,25 +18114,25 @@
       },
       {
         "id": "mv049",
-        "target": "Sağ Kol",
+        "target": "Tosun Paşa",
         "taboo": [
-          "Kahraman",
-          "Yardımcı",
-          "Ortak",
-          "İkinci",
-          "Güvenilir"
+          "Kemal Sunal",
+          "Şener Şen",
+          "Tellioğlu",
+          "Seferoğlu",
+          "Yeşilçam"
         ],
         "difficulty": "medium"
       },
       {
         "id": "mv050",
-        "target": "Senaryo Hatası",
+        "target": "Korku Filmi",
         "taboo": [
-          "Hata",
-          "Mantık",
-          "Boşluk",
-          "Hikaye",
-          "Tutarsız"
+          "Korkmak",
+          "Gerilim",
+          "Hayalet",
+          "Çığlık",
+          "Karanlık"
         ],
         "difficulty": "medium"
       },
@@ -18246,13 +18246,13 @@
       },
       {
         "id": "mv060",
-        "target": "Antikahraman",
+        "target": "Kült Film",
         "taboo": [
-          "Kusurlu",
-          "Kahraman",
-          "Kötü",
-          "İyi",
-          "Gri"
+          "Eski",
+          "Hayran",
+          "Klasik",
+          "Efsane",
+          "Unutulmaz"
         ],
         "difficulty": "hard"
       }
@@ -18267,7 +18267,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Filmabend",
-    "description": "Blockbuster, Kultklassiker und die Filme, die du eh auswendig mitsprichst.",
+    "description": "Kinohits und alles, was jedes Jahr an Weihnachten im Fernsehen läuft.",
     "cards": [
       {
         "id": "mv001",
@@ -18637,7 +18637,7 @@
           "Hebefigur",
           "Tanzen",
           "Baby",
-          "Ecke"
+          "Wassermelone"
         ],
         "difficulty": "medium"
       },
@@ -18757,7 +18757,7 @@
           "Bastian",
           "Glücksdrache",
           "Michael Ende",
-          "Fantasien"
+          "Phantásien"
         ],
         "difficulty": "medium"
       },
@@ -19000,7 +19000,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Noche de cine",
-    "description": "Taquillazos, clásicos de culto y esas pelis que todos citamos de memoria.",
+    "description": "Esas pelis que vimos mil veces y nos sabemos de memoria.",
     "cards": [
       {
         "id": "mv001",
@@ -19733,7 +19733,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Soirée Ciné",
-    "description": "Blockbusters, répliques cultes et pépites du cinéma français — silence, on tourne !",
+    "description": "Les films du dimanche soir, ceux qu'on cite encore à table.",
     "cards": [
       {
         "id": "mv001",
@@ -20466,7 +20466,7 @@
     "palette": "indigo",
     "price": "$2.99",
     "title": "Sessão Pipoca",
-    "description": "Blockbusters, clássicos cult e aqueles filmes que todo mundo vive citando.",
+    "description": "Filmes que a gente já viu mil vezes e sabe as falas de cor.",
     "cards": [
       {
         "id": "mv001",
@@ -21106,25 +21106,25 @@
       },
       {
         "id": "mv054",
-        "target": "Estômago",
+        "target": "Meu Nome Não é Johnny",
         "taboo": [
-          "Cozinheiro",
-          "Prisão",
-          "Coxinha",
-          "Comida",
-          "Poder"
+          "Selton Mello",
+          "Traficante",
+          "Cocaína",
+          "Rio de Janeiro",
+          "Preso"
         ],
         "difficulty": "hard"
       },
       {
         "id": "mv055",
-        "target": "O Som ao Redor",
+        "target": "2 Filhos de Francisco",
         "taboo": [
-          "Recife",
-          "Kleber Mendonça Filho",
-          "Vizinhança",
-          "Segurança",
-          "Bairro"
+          "Zezé Di Camargo",
+          "Luciano",
+          "Sertanejo",
+          "Pai",
+          "É o Amor"
         ],
         "difficulty": "hard"
       },
@@ -21199,7 +21199,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Famous Faces",
-    "description": "Icons, stars, and pop-culture moments everyone knows.",
+    "description": "Celebrities and characters everyone knows, from Madonna to Mr Bean.",
     "cards": [
       {
         "id": "pc001",
@@ -21671,13 +21671,13 @@
       },
       {
         "id": "pc040",
-        "target": "Viral Video",
+        "target": "Taylor Swift",
         "taboo": [
-          "Internet",
-          "Shares",
-          "Millions",
-          "Trending",
-          "Clip"
+          "Singer",
+          "Swifties",
+          "Eras Tour",
+          "Country",
+          "Shake It Off"
         ],
         "difficulty": "medium"
       },
@@ -21932,7 +21932,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Ünlü Yüzler",
-    "description": "Herkesin tanıdığı ikonlar, yıldızlar ve pop kültür anları.",
+    "description": "Sezen Aksu'dan SüngerBob'a, herkesin tanıdığı ünlüler.",
     "cards": [
       {
         "id": "pc001",
@@ -22584,13 +22584,13 @@
       },
       {
         "id": "pc055",
-        "target": "Teşekkür Konuşması",
+        "target": "Adile Naşit",
         "taboo": [
-          "Kupa",
-          "Sahne",
-          "Ağlamak",
-          "Uzun",
-          "Mikrofon"
+          "Hababam Sınıfı",
+          "Yeşilçam",
+          "Kahkaha",
+          "Anne",
+          "Masal"
         ],
         "difficulty": "hard"
       },
@@ -22608,13 +22608,13 @@
       },
       {
         "id": "pc057",
-        "target": "Oyuncu Seçmesi",
+        "target": "Hadise",
         "taboo": [
-          "Aktör",
-          "Rol",
-          "Yönetmen",
-          "Deneme",
-          "Aday"
+          "Eurovision",
+          "Düm Tek Tek",
+          "Şarkıcı",
+          "Belçika",
+          "Dans"
         ],
         "difficulty": "hard"
       },
@@ -22632,13 +22632,13 @@
       },
       {
         "id": "pc059",
-        "target": "Cameo",
+        "target": "Kıvanç Tatlıtuğ",
         "taboo": [
-          "Kısa",
-          "Görünmek",
-          "Yıldız",
-          "Sahne",
-          "Sürpriz"
+          "Oyuncu",
+          "Yakışıklı",
+          "Model",
+          "Dizi",
+          "Kuzey Güney"
         ],
         "difficulty": "medium"
       },
@@ -22665,7 +22665,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Stars & Sternchen",
-    "description": "Ikonen, Promis und Pop-Momente, die jeder kennt — von den Beatles bis Böhmermann.",
+    "description": "Von Loriot bis Helene Fischer: Promis, die man kennt, ob man will oder nicht.",
     "cards": [
       {
         "id": "pc001",
@@ -23023,7 +23023,7 @@
           "Ludwigshafen",
           "Sonnenbrille",
           "Komet",
-          "Vokuhila"
+          "Roller"
         ],
         "difficulty": "medium"
       },
@@ -23398,7 +23398,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Ídolos y estrellas",
-    "description": "Caras famosas, leyendas y momentos de la cultura pop que conoce todo el mundo.",
+    "description": "Famosos de los dos lados del charco y algún que otro dibujo animado.",
     "cards": [
       {
         "id": "pc001",
@@ -24007,7 +24007,7 @@
           "YouTuber",
           "Twitch",
           "Bromas",
-          "Gafas",
+          "Badalona",
           "Catalán"
         ],
         "difficulty": "hard"
@@ -24131,7 +24131,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Têtes d'Affiche",
-    "description": "De Zizou à Beyoncé : stars, idoles et phénomènes que tout le monde connaît.",
+    "description": "Des stars que tout le monde connaît, de Louis de Funès à Squeezie.",
     "cards": [
       {
         "id": "pc001",
@@ -24864,7 +24864,7 @@
     "palette": "crimson",
     "price": "$2.99",
     "title": "Famosos",
-    "description": "Ídolos, estrelas e fenômenos da cultura pop que todo mundo conhece.",
+    "description": "Do Pelé à Anitta, os famosos que todo brasileiro reconhece.",
     "cards": [
       {
         "id": "pc001",
@@ -25137,7 +25137,7 @@
           "Live",
           "Twitch",
           "Vasco",
-          "Careca",
+          "CazéTV",
           "Reagir"
         ],
         "difficulty": "medium"
@@ -25597,7 +25597,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "90s Throwback",
-    "description": "Pure 90s nostalgia — the gadgets, fads, and crazes we grew up with.",
+    "description": "If you ever let a Tamagotchi die, you'll know most of these.",
     "cards": [
       {
         "id": "tb001",
@@ -25877,13 +25877,13 @@
       },
       {
         "id": "tb024",
-        "target": "Cartoons",
+        "target": "Power Rangers",
         "taboo": [
-          "Saturday",
-          "Animated",
-          "Kids",
-          "Television",
-          "Morning"
+          "Morphin",
+          "Colors",
+          "Helmet",
+          "Karate",
+          "Teenagers"
         ],
         "difficulty": "easy"
       },
@@ -26045,13 +26045,13 @@
       },
       {
         "id": "tb038",
-        "target": "Tamagotchi Death",
+        "target": "Spice Girls",
         "taboo": [
-          "Pet",
-          "Forget",
-          "Die",
-          "Hungry",
-          "Ghost"
+          "Band",
+          "Posh",
+          "Ginger",
+          "Wannabe",
+          "Girl Power"
         ],
         "difficulty": "medium"
       },
@@ -26069,13 +26069,13 @@
       },
       {
         "id": "tb040",
-        "target": "Tazo",
+        "target": "Super Soaker",
         "taboo": [
-          "Disc",
-          "Chips",
-          "Collect",
-          "Cartoon",
-          "Stack"
+          "Water",
+          "Gun",
+          "Pump",
+          "Summer",
+          "Squirt"
         ],
         "difficulty": "medium"
       },
@@ -26093,25 +26093,25 @@
       },
       {
         "id": "tb042",
-        "target": "Tape Adapter",
+        "target": "Nintendo 64",
         "taboo": [
-          "Cassette",
-          "CD",
-          "Car",
-          "Stereo",
-          "Cable"
+          "Console",
+          "Mario Kart",
+          "Controller",
+          "GoldenEye",
+          "Cartridge"
         ],
         "difficulty": "medium"
       },
       {
         "id": "tb043",
-        "target": "Floppy Game",
+        "target": "Bop It",
         "taboo": [
-          "Disk",
-          "Install",
-          "DOS",
-          "Computer",
-          "Load"
+          "Twist",
+          "Pull",
+          "Toy",
+          "Commands",
+          "Faster"
         ],
         "difficulty": "medium"
       },
@@ -26189,25 +26189,25 @@
       },
       {
         "id": "tb050",
-        "target": "Bubblegum Card",
+        "target": "Polly Pocket",
         "taboo": [
-          "Pack",
-          "Sticky",
-          "Collect",
-          "Trade",
-          "Sticker"
+          "Tiny",
+          "Doll",
+          "Compact",
+          "Case",
+          "Plastic"
         ],
         "difficulty": "medium"
       },
       {
         "id": "tb051",
-        "target": "Hit Clips",
+        "target": "Macarena",
         "taboo": [
-          "Chip",
-          "Music",
-          "Snippet",
-          "Keychain",
-          "Song"
+          "Dance",
+          "Song",
+          "Hips",
+          "Spanish",
+          "Hey"
         ],
         "difficulty": "medium"
       },
@@ -26273,13 +26273,13 @@
       },
       {
         "id": "tb057",
-        "target": "Reel-to-Reel",
+        "target": "Y2K",
         "taboo": [
-          "Tape",
-          "Spool",
-          "Audio",
-          "Wind",
-          "Player"
+          "Millennium",
+          "Bug",
+          "2000",
+          "Computers",
+          "Crash"
         ],
         "difficulty": "hard"
       },
@@ -26330,7 +26330,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "90'lar Nostaljisi",
-    "description": "Tam bir 90'lar nostaljisi — büyürken hayatımıza giren aletler ve modalar.",
+    "description": "Kaset sarmış, misket oynamış herkes için.",
     "cards": [
       {
         "id": "tb001",
@@ -26646,13 +26646,13 @@
       },
       {
         "id": "tb027",
-        "target": "Çevirmeli İnternet",
+        "target": "Power Rangers",
         "taboo": [
-          "Modem",
-          "Bağlanmak",
-          "Ses",
-          "Yavaş",
-          "Hat"
+          "Renkli",
+          "Kostüm",
+          "Robot",
+          "Kırmızı",
+          "Dönüşmek"
         ],
         "difficulty": "medium"
       },
@@ -26670,13 +26670,13 @@
       },
       {
         "id": "tb029",
-        "target": "Peluş Oyuncak",
+        "target": "Taso",
         "taboo": [
-          "Yumuşak",
-          "Ayıcık",
-          "Sarılmak",
-          "Tüylü",
-          "Hediye"
+          "Cips",
+          "Biriktirmek",
+          "Yuvarlak",
+          "Plastik",
+          "Takas"
         ],
         "difficulty": "medium"
       },
@@ -26742,13 +26742,13 @@
       },
       {
         "id": "tb035",
-        "target": "Telsiz",
+        "target": "Kaptan Tsubasa",
         "taboo": [
-          "Radyo",
-          "Tamam",
-          "Tuş",
-          "Konuşmak",
-          "Menzil"
+          "Futbol",
+          "Çizgi film",
+          "Japon",
+          "Top",
+          "Kaleci"
         ],
         "difficulty": "medium"
       },
@@ -26874,13 +26874,13 @@
       },
       {
         "id": "tb046",
-        "target": "El Falı",
+        "target": "Şirinler",
         "taboo": [
-          "Avuç",
-          "Çizgi",
-          "Gelecek",
-          "Kahve",
-          "Falcı"
+          "Mavi",
+          "Gargamel",
+          "Şirine",
+          "Mantar",
+          "Çizgi film"
         ],
         "difficulty": "medium"
       },
@@ -26934,37 +26934,37 @@
       },
       {
         "id": "tb051",
-        "target": "Kontörlü Telefon",
+        "target": "Kontör",
         "taboo": [
-          "Yükleme",
+          "Yüklemek",
           "Dakika",
           "Bitmek",
           "Hat",
-          "Konuşmak"
+          "Kart"
         ],
         "difficulty": "medium"
       },
       {
         "id": "tb052",
-        "target": "Okul Çantası",
+        "target": "Beslenme Çantası",
         "taboo": [
-          "Sırt",
-          "Defter",
-          "Kitap",
-          "Askı",
-          "Taşımak"
+          "Okul",
+          "Teneffüs",
+          "Termos",
+          "Sandviç",
+          "Yemek"
         ],
         "difficulty": "hard"
       },
       {
         "id": "tb053",
-        "target": "Lav Lambası",
+        "target": "Teleteks",
         "taboo": [
-          "Mum",
-          "Parlamak",
-          "Damla",
-          "Yüzmek",
-          "Işık"
+          "TRT",
+          "Sayfa",
+          "Kumanda",
+          "Yazı",
+          "Numara"
         ],
         "difficulty": "hard"
       },
@@ -27018,13 +27018,13 @@
       },
       {
         "id": "tb058",
-        "target": "Projeksiyon Makinesi",
+        "target": "Çarkıfelek",
         "taboo": [
-          "Film",
-          "Makara",
-          "Perde",
-          "Işık",
-          "Sinema"
+          "Mehmet Ali Erbil",
+          "Yarışma",
+          "Harf",
+          "Çevirmek",
+          "Kelime"
         ],
         "difficulty": "hard"
       },
@@ -27063,7 +27063,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "90er-Flashback",
-    "description": "Tamagotchi, Diddl, Mixtape — die Gadgets, Trends und Pausenhof-Hits deiner Kindheit.",
+    "description": "Wer Kassetten mit dem Bleistift zurückgespult hat, ist hier richtig.",
     "cards": [
       {
         "id": "tb001",
@@ -27727,13 +27727,13 @@
       },
       {
         "id": "tb056",
-        "target": "Bildschirmtext",
+        "target": "Raider",
         "taboo": [
-          "BTX",
-          "Post",
-          "Internet",
-          "Vorläufer",
-          "Terminal"
+          "Twix",
+          "Schokoriegel",
+          "Umbenannt",
+          "Karamell",
+          "Keks"
         ],
         "difficulty": "hard"
       },
@@ -27796,7 +27796,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "Nostalgia noventera",
-    "description": "Viaje directo a los 90: los aparatos, juguetes y modas con los que crecimos.",
+    "description": "Si alguna vez soplaste un cartucho para que funcionara, este mazo es tuyo.",
     "cards": [
       {
         "id": "tb001",
@@ -28292,13 +28292,13 @@
       },
       {
         "id": "tb042",
-        "target": "Bola 8 mágica",
+        "target": "PlayStation",
         "taboo": [
-          "Agitar",
-          "Respuesta",
-          "Futuro",
-          "Pregunta",
-          "Negra"
+          "Sony",
+          "Consola",
+          "Videojuegos",
+          "Memory card",
+          "Crash Bandicoot"
         ],
         "difficulty": "medium"
       },
@@ -28376,13 +28376,13 @@
       },
       {
         "id": "tb049",
-        "target": "Tatuajes temporales",
+        "target": "Spice Girls",
         "taboo": [
-          "Piel",
-          "Agua",
-          "Pegar",
-          "Calcomanía",
-          "Lavar"
+          "Grupo",
+          "Victoria Beckham",
+          "Wannabe",
+          "Chicas",
+          "Inglesas"
         ],
         "difficulty": "medium"
       },
@@ -28424,13 +28424,13 @@
       },
       {
         "id": "tb053",
-        "target": "Lámpara de lava",
+        "target": "Pinky y Cerebro",
         "taboo": [
-          "Cera",
-          "Flotar",
-          "Luz",
-          "Burbujas",
-          "Hippie"
+          "Ratones",
+          "Laboratorio",
+          "Conquistar",
+          "Mundo",
+          "Noche"
         ],
         "difficulty": "hard"
       },
@@ -28529,7 +28529,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "Nostalgie 90's",
-    "description": "Pur jus de nostalgie : les gadgets, jeux de récré et modes qui ont bercé ton enfance.",
+    "description": "Tu regardais le Club Dorothée le mercredi ? Ce deck est fait pour toi.",
     "cards": [
       {
         "id": "tb001",
@@ -29121,13 +29121,13 @@
       },
       {
         "id": "tb050",
-        "target": "Bracelet claquant",
+        "target": "Malabar",
         "taboo": [
-          "Poignet",
-          "Taper",
-          "Enrouler",
-          "Fluo",
-          "Ressort"
+          "Chewing-gum",
+          "Tatouage",
+          "Bulle",
+          "Mâcher",
+          "Bonbon"
         ],
         "difficulty": "medium"
       },
@@ -29181,13 +29181,13 @@
       },
       {
         "id": "tb055",
-        "target": "Laserdisc",
+        "target": "Les Chevaliers du Zodiaque",
         "taboo": [
-          "Film",
-          "Géant",
-          "Vinyle",
-          "Lecteur",
-          "Rare"
+          "Armures",
+          "Pégase",
+          "Athéna",
+          "Club Dorothée",
+          "Dessin animé"
         ],
         "difficulty": "hard"
       },
@@ -29262,7 +29262,7 @@
     "palette": "teal",
     "price": "$2.99",
     "title": "Baú dos Anos 90",
-    "description": "Nostalgia pura — os brinquedos, as febres e os trecos que marcaram a infância.",
+    "description": "Pra quem soprava cartucho e rebobinava fita com caneta.",
     "cards": [
       {
         "id": "tb001",
@@ -29995,7 +29995,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "Around the World",
-    "description": "Cities, landmarks, and cultures from every continent.",
+    "description": "Places you've been, and plenty you've only seen on postcards.",
     "cards": [
       {
         "id": "wd001",
@@ -30539,13 +30539,13 @@
       },
       {
         "id": "wd046",
-        "target": "Rainforest",
+        "target": "Las Vegas",
         "taboo": [
-          "Trees",
-          "Amazon",
-          "Jungle",
-          "Wet",
-          "Tropical"
+          "Casino",
+          "Nevada",
+          "Strip",
+          "Gamble",
+          "Desert"
         ],
         "difficulty": "medium"
       },
@@ -30728,7 +30728,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "Dünya Turu",
-    "description": "Her kıtadan şehirler, simgeler ve kültürler.",
+    "description": "Dünyanın dört bir yanından şehirler ve ünlü yerler.",
     "cards": [
       {
         "id": "wd001",
@@ -31284,13 +31284,13 @@
       },
       {
         "id": "wd047",
-        "target": "Akçaağaç Yaprağı",
+        "target": "Pamukkale",
         "taboo": [
-          "Kanada",
-          "Bayrak",
-          "Kırmızı",
-          "Sonbahar",
-          "Şurup"
+          "Denizli",
+          "Travertin",
+          "Beyaz",
+          "Termal",
+          "Hierapolis"
         ],
         "difficulty": "medium"
       },
@@ -31461,7 +31461,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "Weltenbummler",
-    "description": "Städte, Wahrzeichen und Kulturen aus aller Welt — von der Zugspitze bis Timbuktu.",
+    "description": "Einmal um die ganze Welt, mit Zwischenstopp auf Mallorca.",
     "cards": [
       {
         "id": "wd001",
@@ -32194,7 +32194,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "La vuelta al mundo",
-    "description": "De Machu Picchu al Big Ben: ciudades, monumentos y culturas para viajar sin moverte del sofá.",
+    "description": "Ciudades y monumentos famosos para viajar sin levantarte del sofá.",
     "cards": [
       {
         "id": "wd001",
@@ -32600,7 +32600,7 @@
           "Pirámides",
           "Sol",
           "Luna",
-          "Aztecas"
+          "Ruinas"
         ],
         "difficulty": "medium"
       },
@@ -32927,7 +32927,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "Tour du Monde",
-    "description": "Villes mythiques, monuments et cultures des quatre coins du globe — embarquement immédiat !",
+    "description": "Des villes et des monuments du monde entier, à faire deviner depuis ton canapé.",
     "cards": [
       {
         "id": "wd001",
@@ -33447,13 +33447,13 @@
       },
       {
         "id": "wd044",
-        "target": "Feuille d'érable",
+        "target": "Corse",
         "taboo": [
-          "Canada",
-          "Drapeau",
-          "Sirop",
-          "Rouge",
-          "Québec"
+          "Île",
+          "Ajaccio",
+          "Napoléon",
+          "Bastia",
+          "Beauté"
         ],
         "difficulty": "medium"
       },
@@ -33660,7 +33660,7 @@
     "palette": "emerald",
     "price": "$2.99",
     "title": "Volta ao Mundo",
-    "description": "Cidades, cartões-postais e culturas dos quatro cantos do planeta.",
+    "description": "Cidades e cartões-postais do Brasil e do resto do mundo.",
     "cards": [
       {
         "id": "wd001",
@@ -34393,7 +34393,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "After Dark",
-    "description": "Grown-up game night — dating, nightlife, and innuendo. Clean words, dirty inferences.",
+    "description": "Dating and nightlife cards for grown-ups. Don't play this one with your parents.",
     "cards": [
       {
         "id": "ad001",
@@ -34577,13 +34577,13 @@
       },
       {
         "id": "ad016",
-        "target": "Late-night Text",
+        "target": "Sexting",
         "taboo": [
-          "Message",
           "Phone",
-          "Awake",
-          "Booty",
-          "Lonely"
+          "Text",
+          "Naughty",
+          "Photos",
+          "Send"
         ],
         "difficulty": "medium"
       },
@@ -34805,13 +34805,13 @@
       },
       {
         "id": "ad035",
-        "target": "Red Lipstick",
+        "target": "Strip Poker",
         "taboo": [
-          "Makeup",
-          "Lips",
-          "Bold",
-          "Color",
-          "Kiss"
+          "Cards",
+          "Clothes",
+          "Lose",
+          "Game",
+          "Naked"
         ],
         "difficulty": "medium"
       },
@@ -34865,13 +34865,13 @@
       },
       {
         "id": "ad040",
-        "target": "Cheesy Pickup Line",
+        "target": "Beer Goggles",
         "taboo": [
-          "Bar",
-          "Flirt",
-          "Corny",
-          "Stranger",
-          "Opener"
+          "Drunk",
+          "Attractive",
+          "Ugly",
+          "Alcohol",
+          "Glasses"
         ],
         "difficulty": "medium"
       },
@@ -34925,13 +34925,13 @@
       },
       {
         "id": "ad045",
-        "target": "Cuddle Puddle",
+        "target": "Situationship",
         "taboo": [
-          "Pile",
-          "Friends",
-          "Floor",
-          "Hug",
-          "Blanket"
+          "Relationship",
+          "Label",
+          "Dating",
+          "Casual",
+          "Official"
         ],
         "difficulty": "hard"
       },
@@ -35045,25 +35045,25 @@
       },
       {
         "id": "ad055",
-        "target": "Couch Surfing",
+        "target": "Nightclub",
         "taboo": [
-          "Stay",
-          "Friend",
-          "Sleep",
-          "Free",
-          "Travel"
+          "Dance",
+          "DJ",
+          "Bouncer",
+          "Music",
+          "Drinks"
         ],
         "difficulty": "easy"
       },
       {
         "id": "ad056",
-        "target": "Mood",
+        "target": "Valentine's Day",
         "taboo": [
-          "Feeling",
-          "Vibe",
-          "Lighting",
-          "Set",
-          "Romantic"
+          "February",
+          "Cupid",
+          "Roses",
+          "Love",
+          "Hearts"
         ],
         "difficulty": "easy"
       },
@@ -35126,7 +35126,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "Çapkın",
-    "description": "Yetişkinler için parti destesi — flört, gece hayatı ve cilveli imalar.",
+    "description": "Flört ve gece hayatı üzerine, çocuklar yattıktan sonra oynanacak bir deste.",
     "cards": [
       {
         "id": "ad001",
@@ -35166,25 +35166,25 @@
       },
       {
         "id": "ad004",
-        "target": "Çilek",
+        "target": "Gül",
         "taboo": [
-          "Meyve",
+          "Çiçek",
           "Kırmızı",
-          "Tatlı",
-          "Kalp",
-          "Krema"
+          "Diken",
+          "Buket",
+          "Sevgililer Günü"
         ],
         "difficulty": "easy"
       },
       {
         "id": "ad005",
-        "target": "Dizi İzleyelim",
+        "target": "Yasak Elma",
         "taboo": [
-          "Eve gel",
-          "Kanepe",
-          "Çağırmak",
-          "Film",
-          "Bahane"
+          "Adem",
+          "Havva",
+          "Cennet",
+          "Günah",
+          "Dizi"
         ],
         "difficulty": "medium"
       },
@@ -35238,13 +35238,13 @@
       },
       {
         "id": "ad010",
-        "target": "Boyundaki İz",
+        "target": "Gerdek Gecesi",
         "taboo": [
-          "Atkı",
-          "Saklamak",
-          "Mor",
-          "Öpüşmek",
-          "Yaka"
+          "Düğün",
+          "Gelin",
+          "Damat",
+          "Nikah",
+          "Yatak"
         ],
         "difficulty": "medium"
       },
@@ -35262,13 +35262,13 @@
       },
       {
         "id": "ad012",
-        "target": "Yavaş Dans",
+        "target": "Kur Yapmak",
         "taboo": [
-          "Müzik",
-          "Yakın",
-          "Çift",
-          "Pist",
-          "Sarılmak"
+          "Flört",
+          "İltifat",
+          "Etkilemek",
+          "Hoşlanmak",
+          "Çiçek"
         ],
         "difficulty": "easy"
       },
@@ -35310,13 +35310,13 @@
       },
       {
         "id": "ad016",
-        "target": "Gece Yarısı Mesajı",
+        "target": "Trip Atmak",
         "taboo": [
-          "Telefon",
-          "Uyanık",
-          "Yalnız",
-          "Geç saat",
-          "Yazmak"
+          "Küsmek",
+          "Sevgili",
+          "Surat",
+          "Alınmak",
+          "Kavga"
         ],
         "difficulty": "medium"
       },
@@ -35442,13 +35442,13 @@
       },
       {
         "id": "ad027",
-        "target": "Çıplak Yüzmek",
+        "target": "Hovarda",
         "taboo": [
-          "Havuz",
-          "Deniz",
-          "Gece",
-          "Göl",
-          "Kıyafet"
+          "Çapkın",
+          "Kadın",
+          "Para",
+          "Eğlence",
+          "Savurgan"
         ],
         "difficulty": "hard"
       },
@@ -35490,13 +35490,13 @@
       },
       {
         "id": "ad031",
-        "target": "Soğuk Duş",
+        "target": "Sarhoş",
         "taboo": [
-          "Su",
-          "Sakinleşmek",
-          "Banyo",
-          "Buz gibi",
-          "Serinlemek"
+          "İçki",
+          "Alkol",
+          "Sallanmak",
+          "Rakı",
+          "Kafa"
         ],
         "difficulty": "medium"
       },
@@ -35526,13 +35526,13 @@
       },
       {
         "id": "ad034",
-        "target": "Köpüklü Banyo",
+        "target": "Gece Kulübü",
         "taboo": [
-          "Küvet",
-          "Su",
-          "Mum",
-          "Rahatlamak",
-          "Sabun"
+          "Dans",
+          "Müzik",
+          "DJ",
+          "Fedai",
+          "Sıra"
         ],
         "difficulty": "easy"
       },
@@ -35586,13 +35586,13 @@
       },
       {
         "id": "ad039",
-        "target": "Ertesi Sabah",
+        "target": "Red Flag",
         "taboo": [
-          "Uyanmak",
-          "Dün gece",
-          "Kahve",
-          "Tuhaf",
-          "Yatak"
+          "Kırmızı",
+          "Bayrak",
+          "Uyarı",
+          "İlişki",
+          "Tehlike"
         ],
         "difficulty": "hard"
       },
@@ -35730,13 +35730,13 @@
       },
       {
         "id": "ad051",
-        "target": "Kucak Dansı",
+        "target": "Striptiz",
         "taboo": [
-          "Müzik",
+          "Soyunmak",
+          "Dans",
+          "Direk",
           "Kulüp",
-          "Oturmak",
-          "Yaklaşmak",
-          "Bacak"
+          "Kıyafet"
         ],
         "difficulty": "medium"
       },
@@ -35790,25 +35790,25 @@
       },
       {
         "id": "ad056",
-        "target": "Göz Göze Gelmek",
+        "target": "Aldatmak",
         "taboo": [
-          "Bakışmak",
-          "Kalabalık",
-          "Utanmak",
-          "Karşılıklı",
-          "Gülümsemek"
+          "Sadakat",
+          "İhanet",
+          "Başkası",
+          "Gizli",
+          "Sevgili"
         ],
         "difficulty": "easy"
       },
       {
         "id": "ad057",
-        "target": "Tatlı Dilli",
+        "target": "Seksi",
         "taboo": [
-          "Cazibe",
-          "Laf",
-          "Flört",
-          "Özgüven",
-          "Replik"
+          "Çekici",
+          "Ateşli",
+          "Vücut",
+          "Güzel",
+          "Dekolte"
         ],
         "difficulty": "easy"
       },
@@ -35826,13 +35826,13 @@
       },
       {
         "id": "ad059",
-        "target": "Bronzluk İzi",
+        "target": "Yaz Aşkı",
         "taboo": [
+          "Tatil",
           "Plaj",
-          "Mayo",
-          "Güneş",
-          "Beyaz",
-          "Ten"
+          "Sezon",
+          "Kısa",
+          "Ayrılık"
         ],
         "difficulty": "easy"
       },
@@ -35859,7 +35859,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "Bettgeflüster",
-    "description": "Flirt, Nachtleben und Anspielungen für später am Abend — saubere Wörter, schmutzige Gedanken.",
+    "description": "Flirten und Nachtleben. Lieber erst spielen, wenn die Kinder schlafen.",
     "cards": [
       {
         "id": "ad001",
@@ -36175,13 +36175,13 @@
       },
       {
         "id": "ad027",
-        "target": "Stelldichein",
+        "target": "Schlafzimmerblick",
         "taboo": [
-          "Verabredung",
-          "Altmodisch",
-          "Rendezvous",
-          "Treffen",
-          "Heimlich"
+          "Augen",
+          "Verführerisch",
+          "Sexy",
+          "Müde",
+          "Bett"
         ],
         "difficulty": "hard"
       },
@@ -36379,13 +36379,13 @@
       },
       {
         "id": "ad044",
-        "target": "Der Morgen danach",
+        "target": "Kopfkino",
         "taboo": [
-          "Aufwachen",
-          "Fremdes Bett",
-          "Erinnerung",
-          "Kaffee",
-          "Peinlich"
+          "Fantasie",
+          "Vorstellen",
+          "Gedanken",
+          "Bilder",
+          "Film"
         ],
         "difficulty": "hard"
       },
@@ -36571,13 +36571,13 @@
       },
       {
         "id": "ad060",
-        "target": "Nach rechts wischen",
+        "target": "Quickie",
         "taboo": [
-          "Tinder",
-          "Match",
-          "Daumen",
-          "Profil",
-          "Gefallen"
+          "Schnell",
+          "Sex",
+          "Kurz",
+          "Zwischendurch",
+          "Spontan"
         ],
         "difficulty": "easy"
       }
@@ -36592,7 +36592,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "Picardía",
-    "description": "El mazo para adultos: citas, noche y dobles sentidos — palabras limpias, mentes traviesas.",
+    "description": "Aquí se habla de ligar y de cuernos, así que mejor sin niños delante.",
     "cards": [
       {
         "id": "ad001",
@@ -36608,13 +36608,13 @@
       },
       {
         "id": "ad002",
-        "target": "Paseo de la vergüenza",
+        "target": "Rompecorazones",
         "taboo": [
-          "Mañana",
-          "Ropa",
-          "Anoche",
-          "Fiesta",
-          "Regresar"
+          "Corazón",
+          "Romper",
+          "Enamorar",
+          "Conquistador",
+          "Sufrir"
         ],
         "difficulty": "medium"
       },
@@ -36716,13 +36716,13 @@
       },
       {
         "id": "ad011",
-        "target": "Mensaje de madrugada",
+        "target": "Despecho",
         "taboo": [
-          "Texto",
-          "Celular",
-          "Noche",
-          "Borracho",
-          "Arrepentirse"
+          "Ruptura",
+          "Dolor",
+          "Canciones",
+          "Venganza",
+          "Corazón roto"
         ],
         "difficulty": "medium"
       },
@@ -36788,13 +36788,13 @@
       },
       {
         "id": "ad017",
-        "target": "Baile lento",
+        "target": "Flechazo",
         "taboo": [
-          "Música",
-          "Pareja",
-          "Abrazados",
-          "Romántico",
-          "Balada"
+          "Amor",
+          "Primera vista",
+          "Cupido",
+          "Enamorarse",
+          "Conocer"
         ],
         "difficulty": "easy"
       },
@@ -36860,25 +36860,25 @@
       },
       {
         "id": "ad023",
-        "target": "Muérdago",
+        "target": "Cuernos",
         "taboo": [
-          "Navidad",
-          "Beso",
-          "Planta",
-          "Colgar",
-          "Puerta"
+          "Infiel",
+          "Engañar",
+          "Poner",
+          "Toro",
+          "Pareja"
         ],
         "difficulty": "easy"
       },
       {
         "id": "ad024",
-        "target": "Netflix y algo más",
+        "target": "Kamasutra",
         "taboo": [
-          "Película",
-          "Sofá",
-          "Invitar",
-          "Casa",
-          "Ver"
+          "Posturas",
+          "India",
+          "Libro",
+          "Sexo",
+          "Cama"
         ],
         "difficulty": "medium"
       },
@@ -36932,49 +36932,49 @@
       },
       {
         "id": "ad029",
-        "target": "La tercera cita",
+        "target": "Pedida de mano",
         "taboo": [
-          "Regla",
-          "Cena",
-          "Número",
-          "Especial",
-          "Salir"
+          "Anillo",
+          "Rodilla",
+          "Casarse",
+          "Novia",
+          "Compromiso"
         ],
         "difficulty": "medium"
       },
       {
         "id": "ad030",
-        "target": "La mañana siguiente",
+        "target": "Afrodisíaco",
         "taboo": [
-          "Despertar",
-          "Anoche",
-          "Café",
-          "Incómodo",
-          "Cama"
+          "Ostras",
+          "Comida",
+          "Deseo",
+          "Chocolate",
+          "Excitar"
         ],
         "difficulty": "hard"
       },
       {
         "id": "ad031",
-        "target": "Ducha fría",
+        "target": "Escote",
         "taboo": [
-          "Agua",
-          "Calmarse",
-          "Frío",
-          "Baño",
-          "Helada"
+          "Pecho",
+          "Vestido",
+          "Mirar",
+          "Blusa",
+          "Pronunciado"
         ],
         "difficulty": "medium"
       },
       {
         "id": "ad032",
-        "target": "Escribirle al ex",
+        "target": "Tóxico",
         "taboo": [
-          "Borracho",
-          "Mensaje",
-          "Arrepentirse",
-          "Noche",
-          "Bloquear"
+          "Relación",
+          "Celos",
+          "Controlar",
+          "Pareja",
+          "Veneno"
         ],
         "difficulty": "medium"
       },
@@ -36992,13 +36992,13 @@
       },
       {
         "id": "ad034",
-        "target": "Baño de burbujas",
+        "target": "San Valentín",
         "taboo": [
-          "Tina",
-          "Espuma",
-          "Velas",
-          "Relajarse",
-          "Agua"
+          "Febrero",
+          "Enamorados",
+          "Regalo",
+          "Corazones",
+          "Flores"
         ],
         "difficulty": "easy"
       },
@@ -37088,13 +37088,13 @@
       },
       {
         "id": "ad042",
-        "target": "Tensión no resuelta",
+        "target": "Tensión sexual",
         "taboo": [
           "Química",
           "Miradas",
-          "Amigos",
-          "Beso",
-          "Pareja"
+          "No resuelta",
+          "Ganas",
+          "Atracción"
         ],
         "difficulty": "hard"
       },
@@ -37172,13 +37172,13 @@
       },
       {
         "id": "ad049",
-        "target": "De dónde vienen los bebés",
+        "target": "Strip póker",
         "taboo": [
-          "Pregunta",
-          "Niños",
-          "Papás",
-          "Cigüeña",
-          "Explicar"
+          "Cartas",
+          "Ropa",
+          "Quitarse",
+          "Perder",
+          "Apuesta"
         ],
         "difficulty": "medium"
       },
@@ -37220,13 +37220,13 @@
       },
       {
         "id": "ad053",
-        "target": "Luz tenue",
+        "target": "Cena romántica",
         "taboo": [
-          "Romántico",
           "Velas",
-          "Lámpara",
-          "Ambiente",
-          "Apagar"
+          "Restaurante",
+          "Pareja",
+          "Vino",
+          "Aniversario"
         ],
         "difficulty": "medium"
       },
@@ -37256,13 +37256,13 @@
       },
       {
         "id": "ad056",
-        "target": "Marcas de bronceado",
+        "target": "Amor de verano",
         "taboo": [
+          "Vacaciones",
           "Playa",
-          "Traje de baño",
-          "Sol",
-          "Piel",
-          "Blanco"
+          "Pasajero",
+          "Ligue",
+          "Romance"
         ],
         "difficulty": "easy"
       },
@@ -37325,7 +37325,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "Coquin",
-    "description": "Le deck des grands : drague, nuits blanches et sous-entendus — mots sages, esprit mal placé.",
+    "description": "À garder pour les soirées entre adultes. On y parle drague et coups d'un soir.",
     "cards": [
       {
         "id": "ad001",
@@ -37341,13 +37341,13 @@
       },
       {
         "id": "ad002",
-        "target": "Marche de la honte",
+        "target": "Pécho",
         "taboo": [
-          "Lendemain",
-          "Même tenue",
-          "Matin",
-          "Talons",
-          "Rentrer"
+          "Choper",
+          "Draguer",
+          "Embrasser",
+          "Soirée",
+          "Conclure"
         ],
         "difficulty": "medium"
       },
@@ -37449,13 +37449,13 @@
       },
       {
         "id": "ad011",
-        "target": "Ailier",
+        "target": "Cocu",
         "taboo": [
-          "Copain",
-          "Draguer",
-          "Aider",
-          "Duo",
-          "Soirée"
+          "Tromper",
+          "Cornes",
+          "Mari",
+          "Infidèle",
+          "Couple"
         ],
         "difficulty": "medium"
       },
@@ -37509,13 +37509,13 @@
       },
       {
         "id": "ad016",
-        "target": "Texto à 2h du mat",
+        "target": "Rouler une pelle",
         "taboo": [
-          "Tu dors",
-          "Tard",
-          "Envoyer",
-          "Regret",
-          "Alcool"
+          "Embrasser",
+          "Langue",
+          "Galoche",
+          "Bouche",
+          "Bisou"
         ],
         "difficulty": "medium"
       },
@@ -37677,13 +37677,13 @@
       },
       {
         "id": "ad030",
-        "target": "Troisième rencard",
+        "target": "Tue-l'amour",
         "taboo": [
-          "Règle",
-          "Attendre",
-          "Enfin",
-          "Chiffre",
-          "Sérieux"
+          "Chaussettes",
+          "Ambiance",
+          "Casser",
+          "Envie",
+          "Romantique"
         ],
         "difficulty": "hard"
       },
@@ -37713,13 +37713,13 @@
       },
       {
         "id": "ad033",
-        "target": "Bain moussant",
+        "target": "Capote",
         "taboo": [
-          "Bulles",
-          "Baignoire",
-          "Détente",
-          "Bougies",
-          "Savon"
+          "Préservatif",
+          "Protection",
+          "Latex",
+          "Pharmacie",
+          "Couvert"
         ],
         "difficulty": "easy"
       },
@@ -37785,13 +37785,13 @@
       },
       {
         "id": "ad039",
-        "target": "Lendemain matin",
+        "target": "Chaud lapin",
         "taboo": [
-          "Réveil",
-          "Café",
-          "Gêne",
-          "Draps",
-          "Filer"
+          "Dragueur",
+          "Coureur de jupons",
+          "Femmes",
+          "Envie",
+          "Insatiable"
         ],
         "difficulty": "hard"
       },
@@ -37833,13 +37833,13 @@
       },
       {
         "id": "ad043",
-        "target": "Comment on fait les bébés",
+        "target": "Strip-poker",
         "taboo": [
-          "Parents",
-          "Question",
-          "Cigogne",
-          "Explication",
-          "Gêne"
+          "Cartes",
+          "Vêtements",
+          "Perdre",
+          "Enlever",
+          "Jeu"
         ],
         "difficulty": "medium"
       },
@@ -38058,7 +38058,7 @@
     "palette": "rose",
     "price": "$2.99",
     "title": "Fogo no Parquinho",
-    "description": "O baralho adulto da noite: paquera, balada e indiretas — palavras limpas, mentes maliciosas.",
+    "description": "Um baralho de paquera e balada pra quando as crianças já foram dormir.",
     "cards": [
       {
         "id": "ad001",
@@ -38365,9 +38365,9 @@
         "target": "Olhar 43",
         "taboo": [
           "Música",
-          "Paralamas",
+          "RPM",
           "Paquera",
-          "Canção",
+          "Paulo Ricardo",
           "Número"
         ],
         "difficulty": "hard"
@@ -38614,13 +38614,13 @@
       },
       {
         "id": "ad047",
-        "target": "Mensagem de madrugada",
+        "target": "Nude",
         "taboo": [
+          "Foto",
+          "Pelado",
+          "Mandar",
           "Celular",
-          "Três da manhã",
-          "Saudade",
-          "Ex",
-          "Arrependimento"
+          "Corpo"
         ],
         "difficulty": "medium"
       },
